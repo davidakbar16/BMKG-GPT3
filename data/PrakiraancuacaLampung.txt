@@ -1,0 +1,1260 @@
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandar Lampung Kota Bandar Lampung Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Blambangan Umpu Kab. Way Kanan Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gedong Tataan Kab. Pesawaran Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sugih Kab. Lampung Tengah Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kalianda Kab. Lampung Selatan Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Agung Kab. Tanggamus Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kotabumi Kab. Lampung Utara Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Krui Kab. Pesisir Barat Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Liwa Kab. Lampung Barat Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Menggala Kab. Tulang Bawang Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Metro Kota Metro Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Panaragan Jaya Kab. Tulang Bawang Barat Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pringsewu Kab. Pringsewu Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukadana Kab. Lampung Timur Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wiralaga Mulya Kab. Mesuji Lampung pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]

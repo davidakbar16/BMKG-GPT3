@@ -1,0 +1,97 @@
+Data dari BMKG.GO.ID
+ Pejabat Eselon 1
+
+#	Nama	Jabatan	Kode
+1	Prof. Ir. DWIKORITA KARNAWATI, M.Sc., Ph.D	Kepala BMKG	KB
+2	Ir. DWI BUDI SUTRISNO, M.Sc	Sekretaris Utama	SU
+3	GUSWANTO, M.Si	Deputi Bidang Meteorologi	DM
+4	Dr. ARDHASENA SOPAHELUWAKAN	Deputi Bidang Klimatologi	DK
+5	HANIF ANDI NUGRAHA, S.Si, MT	Plt. Deputi Bidang Geofisika	DG
+6	Dr. ARDHASENA SOPAHELUWAKAN	Plt. Deputi Bidang Instrumentasi, Kalibrasi, Rekayasa dan Jaringan Komunikasi	DI
+
+
+Data dari BMKG.GO.ID
+ Pejabat Eselon 2
+
+#	Nama	Jabatan	Kode
+1	MOHAMAD MUSLIHHUDDIN, SH, MH	Kepala Biro Hukum dan Organisasi	KRH
+2	ARIES ERWANTO, S.Kom, MM	Kepala Biro Perencanaan	KRR
+3	PETRUS DEMON SILI, S.IP, M.Si	Plt. Kepala Biro Umum dan Sumber Daya Manusia	KRU
+4	Dr. ANDRI RAMDHANI, S.Kom, M.Si	Plt. Kepala Pusat Meteorologi Publik	KMU
+5	EKO PRASETYO, MT	Kepala Pusat Meteorologi Maritim	KMM
+6	ACHADI SUBARKAH RAHARJO, S.Si.	Kepala Pusat Meteorologi Penerbangan	KMP
+7	Dr. A. FACHRI RADJAB, S.Si, M.Si	Kepala Pusat Informasi Perubahan Iklim	KPP
+8	MARJUKI, M.Si	Plt. Kepala Pusat Layanan Informasi Iklim Terapan	KPT
+9	Dr. DARYONO, S.Si, M.Si	Kepala Pusat Gempa Bumi dan Tsunami	KPG
+10	SETYOAJIE PRAYOEDHIE, S.T. , Dipl. Tsu., M.DM	Plt. Kepala Pusat Seismologi Teknik, Geofisika Potensial dan Tanda Waktu	KPS
+11	BAMBANG SETIYO PRAYITNO, M.Si	Kepala Pusat Database	KPD
+12	HANIF ANDI NUGRAHA, S.Si, MT	Kepala Pusat Instrumentasi, Kalibrasi dan Rekayasa	KPI
+13	GREGORIUS SETYADHI BUDHI DHARMAWAN, SE, M.T	Kepala Pusat Jaringan Komunikasi	KPJ
+14	NASRUL WATHON, Ak, M.Si, QIA, CA, CFE, C.Fr.A	Inspektur	IPR
+15	RAHMAT TRIYONO, ST, Dipl.Seis, M.Sc	Plt. Kepala Pusat Penelitian dan Pengembangan	KPL
+16	NELLY FLORIDA RIAMA, S.Si, M.Si	Kepala Pusat Pendidikan dan Pelatihan	KDL
+
+
+Data dari BMKG.GO.ID
+ Pejabat Kantor Pusat
+
+#	Nama	Jabatan	Foto
+1	Prof. Ir. DWIKORITA KARNAWATI, M.Sc., Ph.D	Kepala BMKG	
+2	Ir. DWI BUDI SUTRISNO, M.Sc	Sekretaris Utama	
+3	GUSWANTO, M.Si	Deputi Bidang Meteorologi	
+4	Dr. ARDHASENA SOPAHELUWAKAN	Deputi Bidang Klimatologi	
+5	HANIF ANDI NUGRAHA, S.Si, MT	Plt. Deputi Bidang Geofisika	
+6	Dr. ARDHASENA SOPAHELUWAKAN	Plt. Deputi Bidang Instrumentasi, Kalibrasi, Rekayasa dan Jaringan Komunikasi	
+7	NASRUL WATHON, Ak, M.Si, QIA, CA, CFE, C.Fr.A	Inspektur	
+8	RAHMAT TRIYONO, ST, Dipl.Seis, M.Sc	Plt. Kepala Pusat Penelitian dan Pengembangan	
+9	NELLY FLORIDA RIAMA, S.Si, M.Si	Kepala Pusat Pendidikan dan Pelatihan	
+
+
+Data dari BMKG.GO.ID
+ Pejabat Sekretariat Utama
+
+#	Nama	Jabatan	Foto
+1	Ir. DWI BUDI SUTRISNO, M.Sc	Sekretaris Utama	
+2	MOHAMAD MUSLIHHUDDIN, SH, MH	Kepala Biro Hukum dan Organisasi	
+3	ARIES ERWANTO, S.Kom, MM	Kepala Biro Perencanaan	
+4	PETRUS DEMON SILI, S.IP, M.Si	Plt. Kepala Biro Umum dan Sumber Daya Manusia	
+
+
+Data dari BMKG.GO.ID
+ Pejabat Deputi Bidang Meteorologi
+
+#	Nama	Jabatan	Foto
+1	GUSWANTO, M.Si	Deputi Bidang Meteorologi	
+2	Dr. ANDRI RAMDHANI, S.Kom, M.Si	Plt. Kepala Pusat Meteorologi Publik	
+3	EKO PRASETYO, MT	Kepala Pusat Meteorologi Maritim	
+4	ACHADI SUBARKAH RAHARJO, S.Si.	Kepala Pusat Meteorologi Penerbangan	
+
+
+Data dari BMKG.GO.ID
+ Pejabat Deputi Bidang Klimatologi
+
+#	Nama	Jabatan	Foto
+1	Dr. ARDHASENA SOPAHELUWAKAN	Deputi Bidang Klimatologi	
+2	Dr. A. FACHRI RADJAB, S.Si, M.Si	Kepala Pusat Informasi Perubahan Iklim	
+3	MARJUKI, M.Si	Plt. Kepala Pusat Layanan Informasi Iklim Terapan	
+
+
+Data dari BMKG.GO.ID
+ Pejabat Deputi Bidang Geofisika
+
+#	Nama	Jabatan	Foto
+1	HANIF ANDI NUGRAHA, S.Si, MT	Plt. Deputi Bidang Geofisika	
+2	Dr. DARYONO, S.Si, M.Si	Kepala Pusat Gempa Bumi dan Tsunami	
+3	SETYOAJIE PRAYOEDHIE, S.T. , Dipl. Tsu., M.DM	Plt. Kepala Pusat Seismologi Teknik, Geofisika Potensial dan Tanda Waktu	
+
+
+Data dari BMKG.GO.ID
+ Pejabat Deputi Bidang Instrumentasi, Kalibrasi, Rekayasa dan Jaringan Komunikasi
+
+#	Nama	Jabatan	Foto
+1	Dr. ARDHASENA SOPAHELUWAKAN	Plt. Deputi Bidang Instrumentasi, Kalibrasi, Rekayasa dan Jaringan Komunikasi	
+2	BAMBANG SETIYO PRAYITNO, M.Si	Kepala Pusat Database	
+3	HANIF ANDI NUGRAHA, S.Si, MT	Kepala Pusat Instrumentasi, Kalibrasi dan Rekayasa	
+4	GREGORIUS SETYADHI BUDHI DHARMAWAN, SE, M.T	Kepala Pusat Jaringan Komunikasi	
+
+

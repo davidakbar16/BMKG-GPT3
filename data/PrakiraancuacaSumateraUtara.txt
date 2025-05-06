@@ -1,0 +1,2688 @@
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Aek Kanopan Kab. Labuhanbatu Utara Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Balige Kab. Toba Samosir Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Binjai Kota Kota Binjai Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Dolok Sanggul Kab. Humbang Hasundutan Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Sitoli Kab. Nias Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Tua Kab. Padanglawas Utara Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kabanjahe Kab. Karo Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kisaran Kab. Asahan Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Pinang Kab. Labuhanbatu Selatan Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lahomi Kab. Nias Barat Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lima Puluh Kab. Batubara Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lotu Kab. Nias Utara Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Pakam Kab. Deli Serdang Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Medan Kota Medan Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Sidempuan Kota Padang Sidempuan Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandan Kab. Tapanuli Tengah Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pangururan Kab. Samosir Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Panyabungan Kab. Mandailing Natal Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Raya Kab. Simalungun Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pematang Siantar Kota Pematang Siantar Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Rantau Prapat Kab. Labuhanbatu Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Salak Kab. Pak-Pak Bharat Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sei Rampah Kab. Serdang Bedagai Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibolga Kota Sibolga Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sibuhuan Kab. Padanglawas Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sidikalang Kab. Dairi Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sipirok Kab. Tapanuli Selatan Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Stabat Kab. Langkat Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tanjung Balai Kota Tanjung Balai Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tarutung Kab. Tapanuli Utara Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebing Tinggi Kota Tebing Tinggi Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 25°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Teluk Dalam Kab. Nias Selatan Sumatera Utara pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 30°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 75%]

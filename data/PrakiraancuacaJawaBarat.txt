@@ -1,0 +1,2604 @@
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Bandung Kota Bandung Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjar Kota Banjar Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Bekasi Kota Bekasi Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciamis Kab. Ciamis Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cianjur Kab. Cianjur Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cibinong Kab. Bogor Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cikarang Kab. Bekasi Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cimahi Kota Cimahi Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cipanas Kab. Cianjur Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cirebon Kota Cirebon Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Cisarua Kab. Bogor Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Depok Kota Depok Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Gadog Gadog Puncak Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Garut Kab. Garut Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Indramayu Kab. Indramayu Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Karawang Kab. Karawang Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Bogor Kota Bogor Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuningan Kab. Kuningan Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Lembang Kab. Bandung Barat Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Majalengka Kab. Majalengka Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Parigi Kab. Pangandaran Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Kab. Sukabumi Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwakarta Kab. Purwakarta Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaparna Kab. Tasikmalaya Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Soreang Kab. Bandung Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Subang Kab. Subang Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab.Sukabumi Kab. Sukabumi Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumber Kab. Cirebon Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Sumedang Kab. Sumedang Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Tasikmalaya Kota Tasikmalaya Jawa Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,315°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 33°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,157.5°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 20°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,270°
+Temperatur Maksimal: 33°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan Tebal / Overcast
+ Kecepatan dan Arah Angin: 3.704 km/h,180°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Ratu Pelabuhan Ratu Wisata Lokasi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 26°C Temperatur Minimal: 20°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 75%]

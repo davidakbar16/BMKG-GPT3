@@ -1,0 +1,1596 @@
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Arosuka Kab. Solok Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Batusangkar Kab. Tanah Datar Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bukittinggi Kota Bukittinggi Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Basung Kab. Agam Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lubuk Sikaping Kab. Pasaman Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Muaro Sijunjung Kab. Sijunjung Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Kota Padang Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padang Aro Kab. Solok Selatan Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Padangpanjang Kota Padangpanjang Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Painan Kab. Pesisir Selatan Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pariaman Kota Pariaman Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Parit Malintang Kab. Padang Pariaman Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Payakumbuh Kota Payakumbuh Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Pulau Punjung Kab. Dharmasraya Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarilamak Kab. Limapuluh Kota Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Sawahlunto Kota Sawahlunto Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Simpang Empat Kab. Pasaman Barat Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Solok Kota Solok Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 31°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Tuapejat Kab. Kepulauan Mentawai Sumatera Barat pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Hujan Ringan / Light Rain
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 31°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]

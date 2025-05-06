@@ -1,0 +1,924 @@
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangko Barat Kab. Merangin Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bulian Kab. Batanghari Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bungo Kab. Bungo Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Jambi Kota Jambi Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Siulak Kab. Kerinci Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kuala Tungkal Kab. Tanjung Jabung Barat Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabak Kab. Tanjung Jabung Timur Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sakernan Kab. Muaro Jambi Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sarolangun Kab. Sarolangun Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sungai Penuh Kota Sungai Penuh Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Hujan Petir / Severe Thunderstorm
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 23°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tebo Kab. Tebo Jambi pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Kabut / Fog
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 55%]

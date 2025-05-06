@@ -1,0 +1,420 @@
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 23°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bantul Kab. Bantul DI Yogyakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 23°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sleman Kab. Sleman DI Yogyakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 23°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Wates Kab. Kulon Progo DI Yogyakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 23°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung Kidul Kab. Gunung Kidul DI Yogyakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 23°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 21°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Yogyakarta Kota Yogyakarta DI Yogyakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]

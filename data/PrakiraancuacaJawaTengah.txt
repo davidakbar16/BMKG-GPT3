@@ -1,0 +1,3024 @@
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banjarnegara Kab. Banjarnegara Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Batang Kab. Batang Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Blora Kab. Blora Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Boyolali Kab. Boyolali Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Brebes Kab. Brebes Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Cilacap Kab. Cilacap Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Demak Kab. Demak Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Jepara Kab. Jepara Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kajen Kab. Pekalongan Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Karanganyar Kab. Karanganyar Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kebumen Kab. Kebumen Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kendal Kab. Kendal Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Klaten Kab. Klaten Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Kudus Kab. Kudus Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Magelang Kota Magelang Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mungkid Kab. Magelang Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pati Kab. Pati Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pekalongan Kota Pekalongan Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pemalang Kab. Pemalang Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purbalingga Kab. Purbalingga Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwodadi Kab. Grobogan Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purwokerto Kab. Banyumas Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Purworejo Kab. Purworejo Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Rembang Kab. Rembang Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Salatiga Kota Salatiga Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarang Kota Semarang Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Slawi Kab. Tegal Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sragen Kab. Sragen Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sukoharjo Kab. Sukoharjo Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Surakarta Kota Surakarta Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tegal Kota Tegal Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Temanggung Kab. Temanggung Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Ungaran Kab. Semarang Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonogiri Kab. Wonogiri Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Wonosobo Kab. Wonosobo Jawa Tengah pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 24°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 19°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 21°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 18°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 28°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 25°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Semarang Semarang Pelabuhan pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 28°C Temperatur Minimal: 17°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]

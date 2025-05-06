@@ -1,0 +1,1512 @@
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Anyer Kab. Serang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bayah Kab. Lebak Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Binuangen Kab. Lebak Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bojonegara Kab. Serang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Carita Kab. Pandeglang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Ciruas Kota Serang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gunung kencana Kab. Lebak Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kab. Lebak Kab. Lebak Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Cilegon Kota Cilegon Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Kota Tangerang Kota Tangerang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Labuan Kab. Pandeglang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Malingping Kab. Lebak Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pandeglang Kab. Pandeglang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pelabuhan Merak Kota Cilegon Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Rangkasbitung Kab. Lebak Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serang Kota Serang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Serpong Kota Tangerang Selatan Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,315°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,202.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,22.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 34°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,225°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,337.5°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Tigaraksa Kab. Tangerang Banten pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,135°
+Temperatur Maksimal: 34°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]

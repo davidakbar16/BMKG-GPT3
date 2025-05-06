@@ -1,0 +1,756 @@
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Amlapura Kab. Karangasem Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bangli Kab. Bangli Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Denpasar Kota Denpasar Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gianyar Kab. Gianyar Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Mengwi Kab. Badung Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Negara Kab. Jembrana Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Semarapura Kab. Klungkung Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Singaraja Kab. Buleleng Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 30°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 37.04 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 30°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 29°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Tabanan Kab. Tabanan Bali pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 22°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,135°
+Temperatur Maksimal: 29°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 65%]

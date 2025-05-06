@@ -1,0 +1,840 @@
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Kota Bengkulu Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Selatan Kab. Bengkulu Selatan Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Tengah Kab. Bengkulu Tengah Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Bengkulu Utara Kab. Bengkulu Utara Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kaur Kab. Kaur Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepahiang Kab. Kepahiang Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Lebong Kab. Lebong Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Mukomuko Kab. Muko Muko Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Rejang Lebong Kab. Rejang Lebong Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 23°C
+Kelembaban Maksimal: 95% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,45°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 27.78 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 26°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]
+
+ [Prakiraan Cuaca Harian Wilayah Seluma Kab. Seluma Bengkulu pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 95%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 100% Kelembaban Minimal: 80%]

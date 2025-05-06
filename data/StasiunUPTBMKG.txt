@@ -1,0 +1,726 @@
+Data Stasiun BMKG Di Daerah
+
+[Stasiun Geofisika Kelas I Silaing Bawah - Padang PanjangBBMKG Wilayah I Medan 
+ Alamat Stasiun Geofisika Kelas I Silaing Bawah - Padang PanjangBBMKG Wilayah I Medan: Jl. Sultan Syahrir Silaing Bawah, Padang Panjang, Sumatera Barat 0752-82236
+Kepala Stasiun Geofisika Kelas I Silaing Bawah - Padang PanjangBBMKG Wilayah I Medan : DR. SUAIDI AHADI, ST, MT]
+
+[Stasiun Geofisika Kelas I Tuntungan - MedanBBMKG Wilayah I Medan 
+ Alamat Stasiun Geofisika Kelas I Tuntungan - MedanBBMKG Wilayah I Medan: Jl. Geofisika No. 1 Tuntungan I - Pancur Batu, Deli Serdang, Sumatera Utara Telp : 061-6626975
+Kepala Stasiun Geofisika Kelas I Tuntungan - MedanBBMKG Wilayah I Medan : AGUS RIYANTO, SP, MM]
+
+[Stasiun Geofisika Kelas III Gunung SitoliBBMKG Wilayah I Medan 
+ Alamat Stasiun Geofisika Kelas III Gunung SitoliBBMKG Wilayah I Medan: Jl. Kealasa Desa Onowaembo, Gunungsitoli Nias stageof.gunungsitoli@bmkg.go.id
+Kepala Stasiun Geofisika Kelas III Gunung SitoliBBMKG Wilayah I Medan : BUHA MANUPOL SIMANJUNTAK]
+
+[Stasiun Geofisika Kelas III Mata` Ie - Banda AcehBBMKG Wilayah I Medan 
+ Alamat Stasiun Geofisika Kelas III Mata` Ie - Banda AcehBBMKG Wilayah I Medan: Jl. Mata Ie, Pos Perumnas Banda Aceh. Telp : 0651-42840 stageof.mataie@bmkg.go.id
+Kepala Stasiun Geofisika Kelas III Mata` Ie - Banda AcehBBMKG Wilayah I Medan : ANDI AZHAR RUSDIN]
+
+[Stasiun Geofisika Kelas III Tapak Tuan Aceh SelatanBBMKG Wilayah I Medan 
+ Alamat Stasiun Geofisika Kelas III Tapak Tuan Aceh SelatanBBMKG Wilayah I Medan: Jl. Tapaktuan - Medan, Ujung Padang Asahan, Kec. Pasie Raja, Kab. Aceh Selatan, Prov. Aceh, 23755 0656-7031415 085262813180 stageof.acehselatan@bmkg.go.id
+Kepala Stasiun Geofisika Kelas III Tapak Tuan Aceh SelatanBBMKG Wilayah I Medan : LITMAN]
+
+[Stasiun Klimatologi Kelas I Deli SerdangBBMKG Wilayah I Medan 
+ Alamat Stasiun Klimatologi Kelas I Deli SerdangBBMKG Wilayah I Medan: Jl. Meteorologi Raya No. 17 Sampali Medan 20371 Telp : 061-6628002, 6614631 Fax : 061-6614631
+Kepala Stasiun Klimatologi Kelas I Deli SerdangBBMKG Wilayah I Medan : SYAFRINAL, SH]
+
+[Stasiun Klimatologi Kelas II Padang - PariamanBBMKG Wilayah I Medan 
+ Alamat Stasiun Klimatologi Kelas II Padang - PariamanBBMKG Wilayah I Medan: Stasiun Klimatologi Klas II Sicincin Padang Pariaman 25584 Telp : 0751-36491
+Kepala Stasiun Klimatologi Kelas II Padang - PariamanBBMKG Wilayah I Medan : HERON TARIGAN, SP, M.Si]
+
+[Stasiun Klimatologi Kelas IV Aceh BesarBBMKG Wilayah I Medan 
+ Alamat Stasiun Klimatologi Kelas IV Aceh BesarBBMKG Wilayah I Medan: Jl. Banda Aceh Medan Km 27,5 Indrapuri, Aceh Besar 23363 staklim.indrapuri@bmkg.go.id
+Kepala Stasiun Klimatologi Kelas IV Aceh BesarBBMKG Wilayah I Medan : WAHYUDIN, SP, M.I.KOM]
+
+[Stasiun Meteorologi Kelas I Hang Nadim - BatamBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas I Hang Nadim - BatamBBMKG Wilayah I Medan: Jl. Hang Nadim, Bandara Hang Nadim, Batam Telp : 0778-761415 stamet.hangnadim@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Hang Nadim - BatamBBMKG Wilayah I Medan : ADDI SETIADI]
+
+[Stasiun Meteorologi Kelas I Kualanamu - Deli SerdangBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas I Kualanamu - Deli SerdangBBMKG Wilayah I Medan: Jl. Tengku Heran Desa V Kebun Kelapa, Kec. Beringin Deliserdang 20552
+Kepala Stasiun Meteorologi Kelas I Kualanamu - Deli SerdangBBMKG Wilayah I Medan : FACHKRURAZI, SP]
+
+[Stasiun Meteorologi Kelas I Sultan Iskandar Muda - Banda AcehBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas I Sultan Iskandar Muda - Banda AcehBBMKG Wilayah I Medan: Bandara Sultan Iskandar Muda Blangbintang, Banda Aceh Telp : 0651-24217 Fax : 0651-31774 stamet.blangbintang@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Sultan Iskandar Muda - Banda AcehBBMKG Wilayah I Medan : NASROL ADIL, S.SI, M.T]
+
+[Stasiun Meteorologi Kelas II Maritim Belawan - MedanBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas II Maritim Belawan - MedanBBMKG Wilayah I Medan: Jl. Raya Pelabuhan II Gabion Ringkai Belawan - Medan Telp : 061-694851, 6940340 stamar.belawan@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II Maritim Belawan - MedanBBMKG Wilayah I Medan : SUGIYONO]
+
+[Stasiun Meteorologi Kelas I Sultan Syarif Kasim II - PekanbaruBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas I Sultan Syarif Kasim II - PekanbaruBBMKG Wilayah I Medan: Bandar Udara Sultan Syarif Kasim II Pekanbaru, KP. 28284 Telp : 0761-6747211, Fax : 0761-674714
+Kepala Stasiun Meteorologi Kelas I Sultan Syarif Kasim II - PekanbaruBBMKG Wilayah I Medan : RAMLAN, S.Si, M.Si]
+
+[Stasiun Meteorologi Kelas II Minangkabau - Padang PariamanBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas II Minangkabau - Padang PariamanBBMKG Wilayah I Medan: Bandara Tabing Padang Telp : 0751-56035 Fax : 0751-56936 stamet.tabing@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II Minangkabau - Padang PariamanBBMKG Wilayah I Medan : SAKIMIN, S.Si]
+
+[Stasiun Meteorologi Kelas III Binaka - Gunung SitoliBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Binaka - Gunung SitoliBBMKG Wilayah I Medan: Bandara Binaka Gunung Sitoli Nias No. 101, Gunung Sitoli
+Kepala Stasiun Meteorologi Kelas III Binaka - Gunung SitoliBBMKG Wilayah I Medan : CARLES]
+
+[Stasiun Meteorologi Kelas III Cut Bau Maimun Saleh - SabangBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Cut Bau Maimun Saleh - SabangBBMKG Wilayah I Medan: Pelabuhan Udara Maimun Saleh Kota Sabang Telp : 0652-21525
+Kepala Stasiun Meteorologi Kelas III Cut Bau Maimun Saleh - SabangBBMKG Wilayah I Medan : TEGUH SUPRAPTO]
+
+[Stasiun Meteorologi Kelas III Dabo Singkep - LinggaBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Dabo Singkep - LinggaBBMKG Wilayah I Medan: Stasiun Meteorologi Klas III Dabo Singkep
+Kepala Stasiun Meteorologi Kelas III Dabo Singkep - LinggaBBMKG Wilayah I Medan : SAHAT MAULI PASARIBU]
+
+[Stasiun Meteorologi Kelas III Kijang - Tanjung PinangBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Kijang - Tanjung PinangBBMKG Wilayah I Medan: Jl. Adi Sucipto Km 12,5 Bandara Kijang Tj Pinang 0771-41091, 441844
+Kepala Stasiun Meteorologi Kelas III Kijang - Tanjung PinangBBMKG Wilayah I Medan : YOHANES DRAJAD BINTORO]
+
+[Stasiun Meteorologi Kelas III Malikusaleh - Aceh UtaraBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Malikusaleh - Aceh UtaraBBMKG Wilayah I Medan: Bandara Malikussaleh Lhokseumawe 124 LAM Telp : 0645-40540574
+Kepala Stasiun Meteorologi Kelas III Malikusaleh - Aceh UtaraBBMKG Wilayah I Medan : SISWANTO, ST, M.Si]
+
+[Stasiun Meteorologi Kelas III F.L. Tobing - Tapanuli TengahBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III F.L. Tobing - Tapanuli TengahBBMKG Wilayah I Medan: Bandara Pinang Sori Sibolga Telp : 0631-391004
+Kepala Stasiun Meteorologi Kelas III F.L. Tobing - Tapanuli TengahBBMKG Wilayah I Medan : AHMAD UBAEDILLAH]
+
+[Stasiun Meteorologi Kelas III Ranai - Kep.NatunaBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Ranai - Kep.NatunaBBMKG Wilayah I Medan: Jl. Adi Sucipto Komplek AURI Ranai, Natuna Telp : 0773-31016 stamet.ranai@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Ranai - Kep.NatunaBBMKG Wilayah I Medan : FERIOMEX HUTAGALUNG, S.T, M.Si]
+
+[Stasiun Meteorologi Kelas III Tarempa - Kepulauan AnambasBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Tarempa - Kepulauan AnambasBBMKG Wilayah I Medan: Jl. Hang Tuah No 45 Tarempa Kabupaten Kepulauan Anambas Kep. Riau 29791 Telp : 0722-31402 Fax : 0772-31296 stamet.tarempa@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Tarempa - Kepulauan AnambasBBMKG Wilayah I Medan : SAMUEL SUTANTO SIDAURUK, S.Tr]
+
+[Stasiun Meteorologi Kelas III Tjut Nyak Dien Meulaboh - Nagan RayaBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Tjut Nyak Dien Meulaboh - Nagan RayaBBMKG Wilayah I Medan: Bandara Cut Nyak Dhien Meulaboh Jl. Desa Kubang Gajah Kec. Kuala, Kab. Nagan Raya
+Kepala Stasiun Meteorologi Kelas III Tjut Nyak Dien Meulaboh - Nagan RayaBBMKG Wilayah I Medan : ISWAHYUONO BASUKI PRIAMBODO, SP]
+
+[Stasiun Meteorologi Kelas IV Aek Godang - Padang SidempuanBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas IV Aek Godang - Padang SidempuanBBMKG Wilayah I Medan: Bandara Aek Godang Tapanuli Selatan
+Kepala Stasiun Meteorologi Kelas IV Aek Godang - Padang SidempuanBBMKG Wilayah I Medan : MUCHAMAD NUR, S.Kom]
+
+[Stasiun Meteorologi Kelas IV Maritim Teluk Bayur - PadangBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas IV Maritim Teluk Bayur - PadangBBMKG Wilayah I Medan: Jl. Cilacap No. 31A Padang 25217 Telp : 0751-62331 Fax : 0751-62331
+Kepala Stasiun Meteorologi Kelas IV Maritim Teluk Bayur - PadangBBMKG Wilayah I Medan : SYAFRIZAL, M.M]
+
+[Stasiun Meteorologi Kelas IV Raja Haji Abdullah - Tanjungbalai KarimunBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas IV Raja Haji Abdullah - Tanjungbalai KarimunBBMKG Wilayah I Medan: Stasiun Meteorologi Bandar Udara Sei Beti - Tanjung Balai Karimun
+Kepala Stasiun Meteorologi Kelas IV Raja Haji Abdullah - Tanjungbalai KarimunBBMKG Wilayah I Medan : ILHAM SYARIEF PUTRA]
+
+[Stasiun Pemantau Atmosfer Global Bukit Koto Tabang - AgamBBMKG Wilayah I Medan 
+ Alamat Stasiun Pemantau Atmosfer Global Bukit Koto Tabang - AgamBBMKG Wilayah I Medan: Jln. Raya Bukittinggi-Medan Km.17, Palupuh, Kab.Agam, Sumatera Barat 26100 Telp : 0752-7446089, 7014457, Fax. 0752-7446449 stagaw.kototabang@bmkg.go.id
+Kepala Stasiun Pemantau Atmosfer Global Bukit Koto Tabang - AgamBBMKG Wilayah I Medan : SUGENG NUGROHO, M.Si]
+
+[Stasiun Klimatologi Kelas IV RiauBBMKG Wilayah I Medan 
+ Alamat Stasiun Klimatologi Kelas IV RiauBBMKG Wilayah I Medan: Jl. Unggas, Simpang Tiga, Kec. Bukit Raya, Kota Pekanbaru, Riau 28288
+Kepala Stasiun Klimatologi Kelas IV RiauBBMKG Wilayah I Medan : AYI SUDRAJAT, SP, M.Si]
+
+[Stasiun Meteorologi Kelas III Japura - Indragiri HuluBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas III Japura - Indragiri HuluBBMKG Wilayah I Medan: Jl. Lintas Sumatra, Sidomulyo, Kec. Lirik, Kabupaten Indragiri Hulu, Riau 29353 076941238
+Kepala Stasiun Meteorologi Kelas III Japura - Indragiri HuluBBMKG Wilayah I Medan : NANCY LUCIANA DAMANIK, ST, M.Si]
+
+[Stasiun Meteorologi Kelas II Silangit - Tapanuli UtaraBBMKG Wilayah I Medan 
+ Alamat Stasiun Meteorologi Kelas II Silangit - Tapanuli UtaraBBMKG Wilayah I Medan: 
+Kepala Stasiun Meteorologi Kelas II Silangit - Tapanuli UtaraBBMKG Wilayah I Medan : ROMAULI KRISTIANA SIRAIT]
+
+[Stasiun Geofisika Kelas I BandungBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Geofisika Kelas I BandungBBMKG Wilayah II Ciputat: Jl. Cemara No. 66, Bandung Telp : 022-2031881 stageof.bandung@bmkg.go.id
+Kepala Stasiun Geofisika Kelas I BandungBBMKG Wilayah II Ciputat : TEGUH RAHAYU, S.Kom, MM]
+
+[Stasiun Geofisika Kelas I TangerangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Geofisika Kelas I TangerangBBMKG Wilayah II Ciputat: Jl. Meteorologi No 5, Kel. Tanah Tinggi, Tangerang, Banten Telp : 021-55771822 / 5523665 Fax : 021-55771822 stageof.tangerang@bmkg.go.id
+Kepala Stasiun Geofisika Kelas I TangerangBBMKG Wilayah II Ciputat : SUWARDI, S.Si]
+
+[Stasiun Meteorologi Kelas II Sultan Mahmud Badaruddin II - PalembangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas II Sultan Mahmud Badaruddin II - PalembangBBMKG Wilayah II Ciputat: Jl. SM Badaruddin II Km 10,5 Palembang Telp : 0711-430274, 430015
+Kepala Stasiun Meteorologi Kelas II Sultan Mahmud Badaruddin II - PalembangBBMKG Wilayah II Ciputat : DESINDRA DEDDY KURNIAWAN, SP]
+
+[Stasiun Geofisika Kelas III BanjarnegaraBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Geofisika Kelas III BanjarnegaraBBMKG Wilayah II Ciputat: Jl. Raya Banjarmangu KM 12, Desa Kalilunjar, Banjarmangu, Banjarnegara, Jawa Tengah Telp : 0815-6987321 Fax : 0815-592001
+Kepala Stasiun Geofisika Kelas III BanjarnegaraBBMKG Wilayah II Ciputat : HERY SUSANTO WIBOWO]
+
+[Stasiun Geofisika Kelas III KepahiyangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Geofisika Kelas III KepahiyangBBMKG Wilayah II Ciputat: Jl. Pembangunan No. 156 Pasar Ujung, Kepahyang, Bengkulu Telp : 0732-391600 stageof.kepahiang@bmkg.go.id
+Kepala Stasiun Geofisika Kelas III KepahiyangBBMKG Wilayah II Ciputat : ANTON SUGIHARTO]
+
+[Stasiun Geofisika Kelas III Kotabumi - Lampung UtaraBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Geofisika Kelas III Kotabumi - Lampung UtaraBBMKG Wilayah II Ciputat: Jl. Raden Intan No. 219, Kotabumi, Lampung Telp : 0724-22870 stageof.kotabumi@bmkg.go.id
+Kepala Stasiun Geofisika Kelas III Kotabumi - Lampung UtaraBBMKG Wilayah II Ciputat : SUGENG PRAYITNO, ST]
+
+[Stasiun Klimatologi Kelas I BogorBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas I BogorBBMKG Wilayah II Ciputat: Jl. Alternatif IPB - SituGede Bogor Barat Telp : 0251-8628468 Fax : 0251-623018 staklim.bogor@bmkg.go.id
+Kepala Stasiun Klimatologi Kelas I BogorBBMKG Wilayah II Ciputat : Dr. INDRA GUSTARI, ST, M.Si]
+
+[Stasiun Klimatologi Kelas I SemarangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas I SemarangBBMKG Wilayah II Ciputat: Jl. Siliwangi 291 Semarang 50145 Telp : 024-7609016, Fax. 024-7612394 staklim.semarang@bmkg.go.id
+Kepala Stasiun Klimatologi Kelas I SemarangBBMKG Wilayah II Ciputat : SUKASNO, S.TP. MM]
+
+[Stasiun Klimatologi Kelas I PalembangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas I PalembangBBMKG Wilayah II Ciputat: Jl. Residen H. Amalludin Kenten Sako - Palembang Telp : 0711-811642 Fax : 0711-810831
+Kepala Stasiun Klimatologi Kelas I PalembangBBMKG Wilayah II Ciputat : WANDAYANTOLIS, S.Si., M.Si]
+
+[Stasiun Klimatologi Kelas II Tangerang SelatanBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas II Tangerang SelatanBBMKG Wilayah II Ciputat: Jl. Raya Kodam Bintaro No 82 Jakarta Selatan Telp : 021-7353018 Fax : 021-7355262
+Kepala Stasiun Klimatologi Kelas II Tangerang SelatanBBMKG Wilayah II Ciputat : APOLINARIS SAMSUDIN GERU, SP, M.Si]
+
+[Stasiun Klimatologi Kelas I BengkuluBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas I BengkuluBBMKG Wilayah II Ciputat: Jl. Ir. Rustandi Sugianto P. Baai Bengkulu 39172 Kotak Pos 15 Telp : 0736-51251 ; 0736-51426; 0736-53030 Fax : 0736-51426 staklim.pulaubaai@bmkg.go.id
+Kepala Stasiun Klimatologi Kelas I BengkuluBBMKG Wilayah II Ciputat : KLAUS JOHANNES APOH DAMANIK]
+
+[Stasiun Klimatologi Kelas IV Muaro JambiBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas IV Muaro JambiBBMKG Wilayah II Ciputat: Jalan Raya Jambi-Muara Bulian KM 18, Desa Simpang Sungai Duren, Propinsi Jambi-36363 Telp : 0741-581919; 0741-583500 Fax : 0741-583555
+Kepala Stasiun Klimatologi Kelas IV Muaro JambiBBMKG Wilayah II Ciputat : RUDI ANUAR YUDHA TRISAPUTRA]
+
+[Stasiun Klimatologi Kelas IV PesawaranBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas IV PesawaranBBMKG Wilayah II Ciputat: Stasiun Klimatologi Masgar - Tanjung Karang
+Kepala Stasiun Klimatologi Kelas IV PesawaranBBMKG Wilayah II Ciputat : INDRA PURNA, SP, M.Si]
+
+[Stasiun Meteorologi Kelas I Maritim Tanjung Priok - Jakarta UtaraBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas I Maritim Tanjung Priok - Jakarta UtaraBBMKG Wilayah II Ciputat: Jl. Padamarang 4 Pelabuhan Tanjung Priok Jakarta Utara 14310 Telp : 021-43901650 Fax : 021-4351366 stamar.tanjungpriok@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Maritim Tanjung Priok - Jakarta UtaraBBMKG Wilayah II Ciputat : ANTON DAUD, S.Si]
+
+[Stasiun Meteorologi Kelas I Soekarno-Hatta - TangerangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas I Soekarno-Hatta - TangerangBBMKG Wilayah II Ciputat: Stasiun Meteorologi Bandara Soekarno-Hatta Cengkareng Gedung 611 (tower) Telp : 021-5506145 Fax : 021-5501582
+Kepala Stasiun Meteorologi Kelas I Soekarno-Hatta - TangerangBBMKG Wilayah II Ciputat : ACHADI SUBARKAH RAHARJO]
+
+[Stasiun Meteorologi Kelas II Ahmad Yani - SemarangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas II Ahmad Yani - SemarangBBMKG Wilayah II Ciputat: Jl. Puada Yani, Bandara A Yani Semarang 50145 Telp : 024-7626064, 7605539 Fax : 024-7613817
+Kepala Stasiun Meteorologi Kelas II Ahmad Yani - SemarangBBMKG Wilayah II Ciputat : SUTIKNO, SE, S.SI, M.SI]
+
+[Stasiun Meteorologi Kelas I Radin Inten II - Bandar LampungBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas I Radin Inten II - Bandar LampungBBMKG Wilayah II Ciputat: Jl. Raya Branti, Bandara Radin Inten II Lampung Telp : 0721-91093 Fax : 0721-91642
+Kepala Stasiun Meteorologi Kelas I Radin Inten II - Bandar LampungBBMKG Wilayah II Ciputat : KUKUH RIBUDIYANTO]
+
+[Stasiun Meteorologi Kelas III Pangsuma - Putussibau, Kapuas HuluBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Pangsuma - Putussibau, Kapuas HuluBBMKG Wilayah II Ciputat: Bandar Udara Pangsuma Jl. Adi Sucipto Kedamin Putussibau, Kalimantan Barat 78752 Telp : 0567-21567 Fax : 0567-21567 stamet.putussibau@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Pangsuma - Putussibau, Kapuas HuluBBMKG Wilayah II Ciputat : RIDWAN NUGRAHA, A.Md]
+
+[Stasiun Meteorologi Kelas III TegalBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III TegalBBMKG Wilayah II Ciputat: Jl. Kol. Sugiono No 100 Tegal 52113 Telp : 0283-356206 Fax : 0283-341773
+Kepala Stasiun Meteorologi Kelas III TegalBBMKG Wilayah II Ciputat : KAHARUDIN]
+
+[Stasiun Meteorologi Kelas III Budiarto - Curug, TangerangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Budiarto - Curug, TangerangBBMKG Wilayah II Ciputat: Kampus STPI Bandara Budiarto Curug, Tangerang 021-5983894 / 021-5981697 Fax : 021-5986924
+Kepala Stasiun Meteorologi Kelas III Budiarto - Curug, TangerangBBMKG Wilayah II Ciputat : TAUFIQ HIDAYAH, S.Si, M.Si]
+
+[Stasiun Geofisika Kelas I Yogyakarta - SlemanBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Geofisika Kelas I Yogyakarta - SlemanBBMKG Wilayah II Ciputat: Jl. Wates Km 8, Citengan, Balecatur, Gamping, Sleman, DIY Telp : 0274-6498380; 0274-6498383 Fax : 0274-6498382 stageof.yogya@bmkg.go.id
+Kepala Stasiun Geofisika Kelas I Yogyakarta - SlemanBBMKG Wilayah II Ciputat : SETYOAJIE PRAYOEDHIE]
+
+[Stasiun Meteorologi Kelas III CilacapBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III CilacapBBMKG Wilayah II Ciputat: Jl. Gatot Subroto No. 20 Cilacap Telp : 0282-34103 Fax : 0282-535822
+Kepala Stasiun Meteorologi Kelas III CilacapBBMKG Wilayah II Ciputat : TARUNA MONA RACHMAN]
+
+[Stasiun Meteorologi Kelas I Supadio - PontianakBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas I Supadio - PontianakBBMKG Wilayah II Ciputat: Bandara Supadio Jl. Adi Sucipto Km 17, Pontianak, Kalimantan Barat 78381 Telp : 0561-721560 (ext. 222), 0561-721142 Fax : 0561-725127 stamet.supadio@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Supadio - PontianakBBMKG Wilayah II Ciputat : NANANG BUCHORI, SP]
+
+[Stasiun Meteorologi Kelas III Depati Parbo - KerinciBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Depati Parbo - KerinciBBMKG Wilayah II Ciputat: Bandara Depati Parbo Kerinci
+Kepala Stasiun Meteorologi Kelas III Depati Parbo - KerinciBBMKG Wilayah II Ciputat : KURNIANINGSIH]
+
+[Stasiun Meteorologi Kelas III H. Asan Hananjoedin - BelitungBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III H. Asan Hananjoedin - BelitungBBMKG Wilayah II Ciputat: Jl. Bandara H. AS. Hanadjoeddin Buluhtumbang Tanjungpandan - Belitung Telp : 0719-9222015, 082181993487 Fax : 0719-9222016
+Kepala Stasiun Meteorologi Kelas III H. Asan Hananjoedin - BelitungBBMKG Wilayah II Ciputat : SAMSUDIN AGUS HARYANTO, ST]
+
+[Stasiun Meteorologi Kelas III Jatiwangi - MajalengkaBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Jatiwangi - MajalengkaBBMKG Wilayah II Ciputat: Jl. Letda Arzain Jatiwangi Kab. Majalengka 45454 Telp : 0233-881013 Fax : 0233-883949
+Kepala Stasiun Meteorologi Kelas III Jatiwangi - MajalengkaBBMKG Wilayah II Ciputat : DEVI ARDIYANSYAH]
+
+[Stasiun Meteorologi Kelas III Kemayoran - Jakarta PusatBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Kemayoran - Jakarta PusatBBMKG Wilayah II Ciputat: Jl. Angkasa I No. 2 Kemayoran Jakarta Pusat Telp : 021-4246321
+Kepala Stasiun Meteorologi Kelas III Kemayoran - Jakarta PusatBBMKG Wilayah II Ciputat : LUKMAN SOLEH, S.Hut]
+
+[Stasiun Meteorologi Kelas III Citeko - BogorBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Citeko - BogorBBMKG Wilayah II Ciputat: Stasiun Meteorologi Citeko - Cisarua Bogor Telp : 0251 8255460 / 0251 8255011. Fax: 0251 8255460
+Kepala Stasiun Meteorologi Kelas III Citeko - BogorBBMKG Wilayah II Ciputat : FATUHRI SYABANI]
+
+[Stasiun Meteorologi Kelas III Paloh - SambasBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Paloh - SambasBBMKG Wilayah II Ciputat: Jl. Lingkar PLN Liku, Kec. Paloh Kab. Sambas, Kalimantan Barat Telp : 0562-4395086
+Kepala Stasiun Meteorologi Kelas III Paloh - SambasBBMKG Wilayah II Ciputat : DHARMAWAN WAHYU ADHI, SP]
+
+[Stasiun Meteorologi Kelas III Fatmawati Soekarno - BengkuluBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Fatmawati Soekarno - BengkuluBBMKG Wilayah II Ciputat: Jl. Raya Bandara Fatmawati Soekarno, Bengkulu Telp : 0736-51064 Fax : 0736-51614
+Kepala Stasiun Meteorologi Kelas III Fatmawati Soekarno - BengkuluBBMKG Wilayah II Ciputat : TRI WIDIARTO, S.Si]
+
+[Stasiun Meteorologi Kelas III Nangapinoh - MelawiBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Nangapinoh - MelawiBBMKG Wilayah II Ciputat: Bandara Nangapinoh, Kab. Melawi Kalimantan Barat Telp : 0568-21330 Fax : 0568-21330
+Kepala Stasiun Meteorologi Kelas III Nangapinoh - MelawiBBMKG Wilayah II Ciputat : RULLY AFFANDI, S.Si]
+
+[Stasiun Meteorologi Kelas I SerangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas I SerangBBMKG Wilayah II Ciputat: Jl. Raya Taktakan No 27 Serang - Banten Telp : 0254-200185 Fax : 0254-224325
+Kepala Stasiun Meteorologi Kelas I SerangBBMKG Wilayah II Ciputat : MOHAMMAD NURHUDA, S.T.]
+
+[Stasiun Meteorologi Kelas I Sultan Thaha - JambiBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas I Sultan Thaha - JambiBBMKG Wilayah II Ciputat: Jl. Soekarno-Hatta Palmerah - Jambi Telp : 0741-572161 Fax : 0741-573245 stamet.sultanthaha@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Sultan Thaha - JambiBBMKG Wilayah II Ciputat : IBNU SULISTYONO]
+
+[Stasiun Meteorologi Kelas III Susilo - SintangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas III Susilo - SintangBBMKG Wilayah II Ciputat: Jl. Pramuka No. 1 Sintang - Kalimantan Barat Telp : 0565-23013 stamet.sintang@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Susilo - SintangBBMKG Wilayah II Ciputat : SUPRIANDI, SP, M.Si]
+
+[Stasiun Meteorologi Kelas I Depati Amir - Pangkal PinangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas I Depati Amir - Pangkal PinangBBMKG Wilayah II Ciputat: Bandara Dipati Amir, Bangka, Pangkalpinang 33171 Telp : 0717-436894 Fax : 0717-432060
+Kepala Stasiun Meteorologi Kelas I Depati Amir - Pangkal PinangBBMKG Wilayah II Ciputat : TRI AGUS PRAMONO]
+
+[Stasiun Meteorologi Kelas IV Maritim LampungBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas IV Maritim LampungBBMKG Wilayah II Ciputat: Pelabuhan Panjang Bandar Lampung
+Kepala Stasiun Meteorologi Kelas IV Maritim LampungBBMKG Wilayah II Ciputat : RADEN EKO SARJONO]
+
+[Stasiun Meteorologi Kelas IV Maritim PontianakBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas IV Maritim PontianakBBMKG Wilayah II Ciputat: Jl. Pelabuhan Laut Pontianak 78112 Telp : 0561-769906 Fax : 0561-769906
+Kepala Stasiun Meteorologi Kelas IV Maritim PontianakBBMKG Wilayah II Ciputat : SLAMET WIYONO, ST]
+
+[Stasiun Meteorologi Kelas II Maritim Tanjung Mas - SemarangBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Meteorologi Kelas II Maritim Tanjung Mas - SemarangBBMKG Wilayah II Ciputat: Jl. Deli No.3 Pelabuhan Tanjung Emas- Semarang Telp : 024-3559194 Fax : 024-3549050 stamar.semarang@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II Maritim Tanjung Mas - SemarangBBMKG Wilayah II Ciputat : RETNO WIDYANINGSIH]
+
+[Stasiun Klimatologi Kelas IV Koba - Bangka TengahBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas IV Koba - Bangka TengahBBMKG Wilayah II Ciputat: 
+Kepala Stasiun Klimatologi Kelas IV Koba - Bangka TengahBBMKG Wilayah II Ciputat : RESLEN PUADI]
+
+[Stasiun Klimatologi Kelas IV Mlati - SlemanBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas IV Mlati - SlemanBBMKG Wilayah II Ciputat: 
+Kepala Stasiun Klimatologi Kelas IV Mlati - SlemanBBMKG Wilayah II Ciputat : RENI KRANINGTYAS]
+
+[Stasiun Klimatologi Kelas II MempawahBBMKG Wilayah II Ciputat 
+ Alamat Stasiun Klimatologi Kelas II MempawahBBMKG Wilayah II Ciputat: 
+Kepala Stasiun Klimatologi Kelas II MempawahBBMKG Wilayah II Ciputat : LUHUR TRI UJI PRAYITNO, SP, M.LING]
+
+[Stasiun Geofisika Kelas I Kampung Baru - KupangBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas I Kampung Baru - KupangBBMKG Wilayah III Denpasar: Jl. Cak Doko No.70, Kupang 85112, NTT Telp : 0380-821608, 826006 Fax : 0380-826205 stageof.kupang@bmkg.go.id
+Kepala Stasiun Geofisika Kelas I Kampung Baru - KupangBBMKG Wilayah III Denpasar : MARGIONO, S.Si]
+
+[Stasiun Geofisika Kelas II Sanglah - DenpasarBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas II Sanglah - DenpasarBBMKG Wilayah III Denpasar: Jl. Pulau Tarakan No. 1, Sanglah, Denpasar, Bali. Telp : 0361-226157
+Kepala Stasiun Geofisika Kelas II Sanglah - DenpasarBBMKG Wilayah III Denpasar : ARIEF TYASTAMA, S.Si, M.Si]
+
+[Stasiun Geofisika Kelas II Tretes - PasuruanBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas II Tretes - PasuruanBBMKG Wilayah III Denpasar: Jl. Sedap Malam, Mlaten, Pandaan, Pasuruan 67156, Jawa Timur Telp : 0343-635590, 636685 Fax : 0343-636685 stageof.tretes@bmkg.go.id, tremors_trt@yahoo.co.id
+Kepala Stasiun Geofisika Kelas II Tretes - PasuruanBBMKG Wilayah III Denpasar : RULLY OKTAVIA HERMAWAN]
+
+[Stasiun Geofisika Kelas III BalikpapanBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas III BalikpapanBBMKG Wilayah III Denpasar: Jl. Marsma R. Iswahyudi 359 Balikpapan, Kalimantan Timur 76115 Telp : 0542-764053, 762862
+Kepala Stasiun Geofisika Kelas III BalikpapanBBMKG Wilayah III Denpasar : RASMID, M.Si]
+
+[Stasiun Geofisika Kelas III Karangkates - MalangBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas III Karangkates - MalangBBMKG Wilayah III Denpasar: Jl. Raya Bendungan Lahor No. 40, Karangkates, Kec. Sumber Pucung, Malang, Jawa Timur Telp : 0341-385667 Fax : 0341-386261 stageof.karangkates@bmkg.go.id
+Kepala Stasiun Geofisika Kelas III Karangkates - MalangBBMKG Wilayah III Denpasar : MA`MURI, S.Si, M.T.I]
+
+[Stasiun Geofisika Kelas III Sawahan -NganjukBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas III Sawahan -NganjukBBMKG Wilayah III Denpasar: Jl. Pasanggrahan Sawahan No. 10, Nganjuk, Jawa Timur Telp : 0358- 325109 stageof.nganjuk@bmkg.go.id
+Kepala Stasiun Geofisika Kelas III Sawahan -NganjukBBMKG Wilayah III Denpasar : SUMBER HARTO, S.Pd, SP]
+
+[Stasiun Geofisika Kelas III Waingapu - Sumba TimurBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas III Waingapu - Sumba TimurBBMKG Wilayah III Denpasar: Jl. Nusa Cendana I/8, Waingapu, Sumbawa Timur, NTT Telp : 0387-61225 Fax : 0387-61226
+Kepala Stasiun Geofisika Kelas III Waingapu - Sumba TimurBBMKG Wilayah III Denpasar : KUSTORO HARIYATMOKO]
+
+[Stasiun Klimatologi Kelas I BanjarbaruBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Klimatologi Kelas I BanjarbaruBBMKG Wilayah III Denpasar: Jl. Trikora, Banjarbaru - Kalimantan Selatan Telp : 0511-4787229 Fax : 0511-4787159 195602181979011001@bmkg.go.id
+Kepala Stasiun Klimatologi Kelas I BanjarbaruBBMKG Wilayah III Denpasar : GOEROEH TJIPTANTO]
+
+[Stasiun Klimatologi Kelas II MalangBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Klimatologi Kelas II MalangBBMKG Wilayah III Denpasar: Jl. Zentana No. 33 Karangploso Malang (0341)464827,461595,461388 zentana33@yahoo.com
+Kepala Stasiun Klimatologi Kelas II MalangBBMKG Wilayah III Denpasar : ANUNG SUPRAYITNO]
+
+[Stasiun Klimatologi Kelas II KupangBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Klimatologi Kelas II KupangBBMKG Wilayah III Denpasar: Jl. Timor Raya Km 10,7 Lasiana Kupang, KP. 85361 Telp : 0380-881681, Fax. 0380-881680 staklim_lasiana@yahoo.com
+Kepala Stasiun Klimatologi Kelas II KupangBBMKG Wilayah III Denpasar : RAHMATTULLOH ADJI, SP]
+
+[Stasiun Klimatologi Kelas II JembranaBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Klimatologi Kelas II JembranaBBMKG Wilayah III Denpasar: Jl. Lelly No. 9 Baler Bale Agung Jembrana Negara 82212 BALI Telp. 0365-43729, Fax. 0365-4546209 klimat_negara@yahoo.com
+Kepala Stasiun Klimatologi Kelas II JembranaBBMKG Wilayah III Denpasar : AMINUDIN AL RONIRI]
+
+[Stasiun Klimatologi Kelas I Lombok BaratBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Klimatologi Kelas I Lombok BaratBBMKG Wilayah III Denpasar: Jl. Tgh. Ibrahim Khalid, Mataram Telp : (0380) 881680 ; 881681
+Kepala Stasiun Klimatologi Kelas I Lombok BaratBBMKG Wilayah III Denpasar : NUGA PUTRANTIJO]
+
+[Stasiun Meteorologi Kelas I Juanda - SurabayaBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas I Juanda - SurabayaBBMKG Wilayah III Denpasar: Bandar Udara Juanda Sidoarjo 61253 Telp : 031-8668989, 8667540 stamet.juanda@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Juanda - SurabayaBBMKG Wilayah III Denpasar : TAUFIQ HERMAWAN, ST, MT]
+
+[Stasiun Meteorologi Kelas I Ngurah Rai - DenpasarBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas I Ngurah Rai - DenpasarBBMKG Wilayah III Denpasar: Jl. Tolotio No. 8 Bandara Udara I Gusti Ngurah Rai, Kab. Badung 0361-751124, 751011 ext. 2198 Fax : 0361-756665
+Kepala Stasiun Meteorologi Kelas I Ngurah Rai - DenpasarBBMKG Wilayah III Denpasar : RIO MARTHADI]
+
+[Stasiun Meteorologi Kelas II El Tari - KupangBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas II El Tari - KupangBBMKG Wilayah III Denpasar: Bandara Eltari Kupang Jl. Rajawali - Penturi Kupang Telp : 0380-881613 stamet.eltari@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II El Tari - KupangBBMKG Wilayah III Denpasar : AGUNG SUDIONO ABADI, S.Si]
+
+[Stasiun Meteorologi Kelas II Maritim Perak II - SurabayaBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas II Maritim Perak II - SurabayaBBMKG Wilayah III Denpasar: Jl. Kalimas Baru 97B Perak Surabaya Fax : 031-3291439 stamar.perak2@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II Maritim Perak II - SurabayaBBMKG Wilayah III Denpasar : DARYATNO, SP, MP]
+
+[Stasiun Meteorologi Kelas II Bandara Internasional LombokBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas II Bandara Internasional LombokBBMKG Wilayah III Denpasar: Bandara Internasional Lombok - Mataram NTB Telp : 0364-32235 stamet.selaparang@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II Bandara Internasional LombokBBMKG Wilayah III Denpasar : CUCU KUSMAYANCU]
+
+[Stasiun Meteorologi Kelas I Sultan Aji Muhammad Sulaiman Sepinggan - BalikpapanBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas I Sultan Aji Muhammad Sulaiman Sepinggan - BalikpapanBBMKG Wilayah III Denpasar: Jl. Marsma R. Iswahyudi No. 3 Balikpapan Telp : 0542-762360 Fax : 0542-764054 stamet.sepinggan@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Sultan Aji Muhammad Sulaiman Sepinggan - BalikpapanBBMKG Wilayah III Denpasar : ERIKA MARDIYANTI]
+
+[Stasiun Meteorologi Kelas II Syamsudin Noor - BanjarmasinBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas II Syamsudin Noor - BanjarmasinBBMKG Wilayah III Denpasar: Bandara Syamsudin Noor Banjarmasin 0511-4705198
+Kepala Stasiun Meteorologi Kelas II Syamsudin Noor - BanjarmasinBBMKG Wilayah III Denpasar : KARMANA]
+
+[Stasiun Meteorologi Kelas III BanyuwangiBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III BanyuwangiBBMKG Wilayah III Denpasar: Jl. Jaksa Agung Suprapto No. 152 Telp : 0333-421888 Fax : 0333-410088
+Kepala Stasiun Meteorologi Kelas III BanyuwangiBBMKG Wilayah III Denpasar : AHMAD BISRI]
+
+[Stasiun Meteorologi Kelas III Beringin - Barito UtaraBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Beringin - Barito UtaraBBMKG Wilayah III Denpasar: Jl. Pendreh No. 187 Telp : 0519-21495, 22270
+Kepala Stasiun Meteorologi Kelas III Beringin - Barito UtaraBBMKG Wilayah III Denpasar : SUDARMONO]
+
+[Stasiun Meteorologi Kelas III Gewanyantana - Larantuka, Flores TimurBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Gewanyantana - Larantuka, Flores TimurBBMKG Wilayah III Denpasar: Jl. Soekarno-Hatta No 76 Larantuka Flores - NTT
+Kepala Stasiun Meteorologi Kelas III Gewanyantana - Larantuka, Flores TimurBBMKG Wilayah III Denpasar : AGUS KARYANTO]
+
+[Stasiun Meteorologi Kelas III Iskandar - Kotawaringin BaratBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Iskandar - Kotawaringin BaratBBMKG Wilayah III Denpasar: Jl. Iskandar, Bandara Iskandar Pangkalan Bun, Kalimantan Tengah, KP. 74112 Telp/Fax : 0532-21329 pangkalanbun_bmg@yahoo.com
+Kepala Stasiun Meteorologi Kelas III Iskandar - Kotawaringin BaratBBMKG Wilayah III Denpasar : AQIL IHSAN, S. Kom.]
+
+[Stasiun Meteorologi Kelas III Juwata - TarakanBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Juwata - TarakanBBMKG Wilayah III Denpasar: Jl. Mulawarman - Bandara Tarakan Telp/Fax : 0551-21629 stamet.tarakan@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Juwata - TarakanBBMKG Wilayah III Denpasar : MUHAMMAD SULAM KHILMI]
+
+[Stasiun Meteorologi Kelas III Kalianget - SumenepBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Kalianget - SumenepBBMKG Wilayah III Denpasar: Jl. Raya Kalianget Sumenep Barat Madura Telp : 0328-662743
+Kepala Stasiun Meteorologi Kelas III Kalianget - SumenepBBMKG Wilayah III Denpasar : USMAN KHOLID]
+
+[Stasiun Meteorologi Kelas III Kalimarau - BerauBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Kalimarau - BerauBBMKG Wilayah III Denpasar: Bandara Kalimarau Tanjung Redeb Berau
+Kepala Stasiun Meteorologi Kelas III Kalimarau - BerauBBMKG Wilayah III Denpasar : TEKAD SUMARDI]
+
+[Stasiun Meteorologi Kelas III David Constantijn Saudale - Rote NdaoBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III David Constantijn Saudale - Rote NdaoBBMKG Wilayah III Denpasar: Bandar Udara Lekunik Baa Rote 85371 stamet.baarote@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III David Constantijn Saudale - Rote NdaoBBMKG Wilayah III Denpasar : OKTEN LUTHER NUBATONIS, STP]
+
+[Stasiun Meteorologi Kelas III Sultan Muhammad Salahuddin - BimaBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Sultan Muhammad Salahuddin - BimaBBMKG Wilayah III Denpasar: Stasiun Meteorologi Sultan M. Salahudin Bima NTB stamet.bima@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Sultan Muhammad Salahuddin - BimaBBMKG Wilayah III Denpasar : SATRIA TOPAN PRIMADI]
+
+[Stasiun Meteorologi Kelas III Mali - AlorBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Mali - AlorBBMKG Wilayah III Denpasar: Jl. Soekarno Hatta, Bandar Udara Mali, Alor
+Kepala Stasiun Meteorologi Kelas III Mali - AlorBBMKG Wilayah III Denpasar : ERWIN ANDREW KARIPUI]
+
+[Stasiun Meteorologi Kelas III Umbu Mehang Kunda - Sumba TimurBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Umbu Mehang Kunda - Sumba TimurBBMKG Wilayah III Denpasar: Jl. Nusa Cendana I/8, Waingapu, Sumbawa Timur, NTT Telp : 0387-61225 Fax : 0387-61226
+Kepala Stasiun Meteorologi Kelas III Umbu Mehang Kunda - Sumba TimurBBMKG Wilayah III Denpasar : CARLES ALEXANDER TARI, S.TP]
+
+[Stasiun Meteorologi Kelas III TubanBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III TubanBBMKG Wilayah III Denpasar: 
+Kepala Stasiun Meteorologi Kelas III TubanBBMKG Wilayah III Denpasar : ZEM IRIANTO PADAMA, SE, S.Si]
+
+[Stasiun Meteorologi Kelas III Sangkapura - Bawean, GresikBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Sangkapura - Bawean, GresikBBMKG Wilayah III Denpasar: Jl. Umar Masud Sangkapura - Bawean Gresik 61181 Telp : 0325-421004, 0352-421572 stamet.bawean@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Sangkapura - Bawean, GresikBBMKG Wilayah III Denpasar : ARI WIDJAJANTO]
+
+[Stasiun Meteorologi Kelas III Frans Sales Lega - ManggaraiBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Frans Sales Lega - ManggaraiBBMKG Wilayah III Denpasar: Jl. Satar Tacik Ruteng - NTT Telp : 0385-21264
+Kepala Stasiun Meteorologi Kelas III Frans Sales Lega - ManggaraiBBMKG Wilayah III Denpasar : DECKY IRMAWAN, SE, M.Kom]
+
+[Stasiun Meteorologi Kelas III Gusti Syamsir Alam - KotabaruBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Gusti Syamsir Alam - KotabaruBBMKG Wilayah III Denpasar: Jl. Raya Stagen KM 10 Kotabaru 72151 Telp : 0581-21701 stamet.kotabaru@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Gusti Syamsir Alam - KotabaruBBMKG Wilayah III Denpasar : TONI KURNIAWAN, S.P.]
+
+[Stasiun Meteorologi Kelas III Sultan Muhammad Kaharuddin - SumbawaBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Sultan Muhammad Kaharuddin - SumbawaBBMKG Wilayah III Denpasar: Jl. Garuda No 43 Sumbawa Besar 84312 Telp : 0371-21859 Fax : 0371-626144
+Kepala Stasiun Meteorologi Kelas III Sultan Muhammad Kaharuddin - SumbawaBBMKG Wilayah III Denpasar : SAMRIYANTO]
+
+[Stasiun Meteorologi Kelas III Tanjung Harapan - BulunganBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Tanjung Harapan - BulunganBBMKG Wilayah III Denpasar: Jl. Ulin No. 3 Tanjung Selor, Kaltim stamet.tanjungselor@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Tanjung Harapan - BulunganBBMKG Wilayah III Denpasar : ABDUL HARIS ZULKARNAIN]
+
+[Stasiun Meteorologi Kelas III Temindung - SamarindaBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Temindung - SamarindaBBMKG Wilayah III Denpasar: Jl. Pipit No 150 Bandara Temindung Samarinda Telp : 0541-741160 Fax : (0541) 201060 stamet_samarinda@yahoo.com
+Kepala Stasiun Meteorologi Kelas III Temindung - SamarindaBBMKG Wilayah III Denpasar : RIZA ARIAN NOOR, S.Si, M.Ling]
+
+[Stasiun Meteorologi Kelas I Tjilik Riwut - Palangka RayaBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas I Tjilik Riwut - Palangka RayaBBMKG Wilayah III Denpasar: Jl. A Donis Samad Bandara Tjilik Riwut Palangka Raya PO Box 90 Kode Pos 73111 Telp. 0536-3222871, Fax. 0536-3223588
+Kepala Stasiun Meteorologi Kelas I Tjilik Riwut - Palangka RayaBBMKG Wilayah III Denpasar : CATUR WINARTI]
+
+[Stasiun Meteorologi Kelas III Fransiskus Xaverius Seda - Maumere SikkaBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Fransiskus Xaverius Seda - Maumere SikkaBBMKG Wilayah III Denpasar: Stasiun Meteorologi Wai Oti Maumere Telp : 0382 21349 Fax : 0382 22967
+Kepala Stasiun Meteorologi Kelas III Fransiskus Xaverius Seda - Maumere SikkaBBMKG Wilayah III Denpasar : OTA WELLY JENNI THALO]
+
+[Stasiun Meteorologi Kelas III Yuvai Semaring - Longbawan, NunukanBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas III Yuvai Semaring - Longbawan, NunukanBBMKG Wilayah III Denpasar: Long Katung, Krayan, Nunukan, Kalimantan Timur
+Kepala Stasiun Meteorologi Kelas III Yuvai Semaring - Longbawan, NunukanBBMKG Wilayah III Denpasar : ADE HERYADI]
+
+[Stasiun Meteorologi Kelas IV Sanggu - Buntok, Barito SelatanBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas IV Sanggu - Buntok, Barito SelatanBBMKG Wilayah III Denpasar: Jl. Merdeka, Bandar Udara Sanggau, Buntok, PO Box 18, KP. 73701 Telp. 0525-2703419 Fax. - bmg_buntok@yahoo.com
+Kepala Stasiun Meteorologi Kelas IV Sanggu - Buntok, Barito SelatanBBMKG Wilayah III Denpasar : NUR SETIAWAN]
+
+[Stasiun Meteorologi Kelas IV H. Asan - Sampit, Kotawaringin TimurBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas IV H. Asan - Sampit, Kotawaringin TimurBBMKG Wilayah III Denpasar: Jl. Samekto Baamang Hulu Sampit, Bandar Udara H. Asan Sampit, Kab. Kotawaringin Timur telp. 0531-34363 Fax. 0531-30659
+Kepala Stasiun Meteorologi Kelas IV H. Asan - Sampit, Kotawaringin TimurBBMKG Wilayah III Denpasar : MUSUHANAYA]
+
+[Stasiun Meteorologi Kelas IV Komodo - Labuan Bajo, Manggarai BaratBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas IV Komodo - Labuan Bajo, Manggarai BaratBBMKG Wilayah III Denpasar: Bandar Udara Komodo Labuan Bajo
+Kepala Stasiun Meteorologi Kelas IV Komodo - Labuan Bajo, Manggarai BaratBBMKG Wilayah III Denpasar : STI NENOT`EK]
+
+[Stasiun Meteorologi Kelas IV NunukanBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas IV NunukanBBMKG Wilayah III Denpasar: Jl. Arief Rahman Hakim No.15 Bandar Udara Nunukan, Kab. Nunukan, Prop. Kalimantan Timur Telp : 0556-2025415 stamet.nunukan@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas IV NunukanBBMKG Wilayah III Denpasar : WILLIAM SANTO HASUDUNGAN SINAGA]
+
+[Stasiun Geofisika Kelas III MataramBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas III MataramBBMKG Wilayah III Denpasar: 
+Kepala Stasiun Geofisika Kelas III MataramBBMKG Wilayah III Denpasar : ARDHIANTO SEPTIADHI, S.Si]
+
+[Stasiun Geofisika Kelas III AlorBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Geofisika Kelas III AlorBBMKG Wilayah III Denpasar: 
+Kepala Stasiun Geofisika Kelas III AlorBBMKG Wilayah III Denpasar : SUMAWAN, ST, MM]
+
+[Stasiun Meteorologi Kelas IV Maritim Tenau - KupangBBMKG Wilayah III Denpasar 
+ Alamat Stasiun Meteorologi Kelas IV Maritim Tenau - KupangBBMKG Wilayah III Denpasar: 
+Kepala Stasiun Meteorologi Kelas IV Maritim Tenau - KupangBBMKG Wilayah III Denpasar : MOH. SYAEFUL HADI, SP]
+
+[Stasiun Geofisika Kelas I Karang Panjang - AmbonBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Geofisika Kelas I Karang Panjang - AmbonBBMKG Wilayah IV Makassar: Jl. AIS Nasution No. 8 Ambon, Maluku Telp : 0911-353191, 354931 Fax : 0911-353191 stageof.karangpanjang@bmkg.go.id
+Kepala Stasiun Geofisika Kelas I Karang Panjang - AmbonBBMKG Wilayah IV Makassar : DJATI CIPTO KUNCORO, S.Si]
+
+[Stasiun Geofisika Kelas I Winangun - ManadoBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Geofisika Kelas I Winangun - ManadoBBMKG Wilayah IV Makassar: Jl. Harapan Winangun, Manado, Sulawesi Utara Telp : 0431-823342 Fax : 0431-825667 stageof.winangun@bmkg.go.id
+Kepala Stasiun Geofisika Kelas I Winangun - ManadoBBMKG Wilayah IV Makassar : TONY AGUS WIJAYA, S.Si]
+
+[Stasiun Geofisika Kelas II GowaBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Geofisika Kelas II GowaBBMKG Wilayah IV Makassar: Jl. Malino Panggentungan, Sungguminasa, Gowa, Sulawesi Selatan Telp : 0411-861083 stageof.gowa@bmkg.go.id
+Kepala Stasiun Geofisika Kelas II GowaBBMKG Wilayah IV Makassar : ROSA AMELIA, S.Si]
+
+[Stasiun Geofisika Kelas I PaluBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Geofisika Kelas I PaluBBMKG Wilayah IV Makassar: Jl. Denggune Kotak Pos 48 Palu, Sulawesi stageof.palu@bmkg.go.id
+Kepala Stasiun Geofisika Kelas I PaluBBMKG Wilayah IV Makassar : SUJABAR]
+
+[Stasiun Geofisika Kelas III Saumlaki - Maluku Tenggara BaratBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Geofisika Kelas III Saumlaki - Maluku Tenggara BaratBBMKG Wilayah IV Makassar: Komplek Geofisika, Jl. Harapan, Saumlaki, Maluku Tenggara Barat Telp : 0918-21124 Fax : 0918-21124
+Kepala Stasiun Geofisika Kelas III Saumlaki - Maluku Tenggara BaratBBMKG Wilayah IV Makassar : GEORGE FRANSISCO A. MUABUAY]
+
+[Stasiun Geofisika Kelas III TernateBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Geofisika Kelas III TernateBBMKG Wilayah IV Makassar: Jl. Ubo-ubo Ternate Selatan, Maluku Utara Telp : 0921-23144 Fax : 0921-24671 stageof.ternate@bmkg.go.id
+Kepala Stasiun Geofisika Kelas III TernateBBMKG Wilayah IV Makassar : ANDRI WIJAYA BIDANG, S.Si, M.Si]
+
+[Stasiun Geofisika Kelas IV KendariBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Geofisika Kelas IV KendariBBMKG Wilayah IV Makassar: Stageof Klas IV Kendari, Sulawesi Tenggara
+Kepala Stasiun Geofisika Kelas IV KendariBBMKG Wilayah IV Makassar : RUDIN, ST]
+
+[Stasiun Klimatologi Kelas I MarosBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Klimatologi Kelas I MarosBBMKG Wilayah IV Makassar: Jl. Ratulangi 75A Maros, Sulawesi Selatan Telp. (0411) 372366, Fax (0411) 372367 klimat_maros@yahoo.com,
+Kepala Stasiun Klimatologi Kelas I MarosBBMKG Wilayah IV Makassar : RAKHMAT PRASETIA, SP, M.Si]
+
+[Stasiun Klimatologi Kelas II Minahasa UtaraBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Klimatologi Kelas II Minahasa UtaraBBMKG Wilayah IV Makassar: Stasiun Klimatologi Kayuwatu - Minahasa Telp : 0431-811773, 814033 staklim.kayuwatu@bmkg.go.id
+Kepala Stasiun Klimatologi Kelas II Minahasa UtaraBBMKG Wilayah IV Makassar : IRYANTO MARMIN SUWIRONO, SP]
+
+[Stasiun Klimatologi Kelas III Seram Bagian BaratBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Klimatologi Kelas III Seram Bagian BaratBBMKG Wilayah IV Makassar: Kairatu, Seram Bagian Barat staklim.kairatu@bmkg.go.id
+Kepala Stasiun Klimatologi Kelas III Seram Bagian BaratBBMKG Wilayah IV Makassar : BERNADUS DANIEL S.A.K, SP, MM]
+
+[Stasiun Meteorologi Kelas I Hasanuddin - MakassarBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas I Hasanuddin - MakassarBBMKG Wilayah IV Makassar: Jl. Bandara Baru Bandar Udara Internasional Sultan Hasanuddin, Kec. Mandai, Kab. Maros, Prov. Sulawesi Selatan Telp : 0411-4831296 stamet.hasanuddin@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Hasanuddin - MakassarBBMKG Wilayah IV Makassar : HARI TRIWIBOWO, S.Si]
+
+[Stasiun Meteorologi Kelas II Maritim BitungBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas II Maritim BitungBBMKG Wilayah IV Makassar: Jl. Candi No. 56 Kaduodan Bitung Telp : 0438-21710 stamar.bitung@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II Maritim BitungBBMKG Wilayah IV Makassar : ANDI CAHYADI, SE, S.Si, M.Si]
+
+[Stasiun Meteorologi Kelas II Maritim Paotere - MakassarBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas II Maritim Paotere - MakassarBBMKG Wilayah IV Makassar: Jl. Sabutung I No. 30 Paotere - Makassar Telp : 0411-319242 Fax : 0411-328235 stamar.paotere@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II Maritim Paotere - MakassarBBMKG Wilayah IV Makassar : IRWANSYAH NASUTION, ST, M.Si]
+
+[Stasiun Meteorologi Kelas II Mutiara SIS Al-Jufrie - PaluBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas II Mutiara SIS Al-Jufrie - PaluBBMKG Wilayah IV Makassar: Komplek Bandara Mutiara Palu Jl. Abdurahman Saleh Biroboli - Sulawesi Tengah Telp : 0461-482172, 482802 stamet.mutiarapalu@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas II Mutiara SIS Al-Jufrie - PaluBBMKG Wilayah IV Makassar : NUR ALIM]
+
+[Stasiun Meteorologi Kelas II Pattimura - AmbonBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas II Pattimura - AmbonBBMKG Wilayah IV Makassar: Komplek Bandara Patimura Ambon Jl. Dr. Leimena Ambon Telp : 0911-311751 Fax : 0911-311751
+Kepala Stasiun Meteorologi Kelas II Pattimura - AmbonBBMKG Wilayah IV Makassar : KAMARI, SP, M.Kom]
+
+[Stasiun Meteorologi Kelas II Sam Ratulangi - ManadoBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas II Sam Ratulangi - ManadoBBMKG Wilayah IV Makassar: Jl. AA Maramis Bandara Sam Ratulangi Manado 95374 Telp : 0431-811202 Fax : 0431-811663, 811888
+Kepala Stasiun Meteorologi Kelas II Sam Ratulangi - ManadoBBMKG Wilayah IV Makassar : DHIRA UTAMA, S.Kom]
+
+[Stasiun Meteorologi Kelas III Amahai - Maluku TengahBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Amahai - Maluku TengahBBMKG Wilayah IV Makassar: Bandara Perintis Amahai Telp : 0914-21398
+Kepala Stasiun Meteorologi Kelas III Amahai - Maluku TengahBBMKG Wilayah IV Makassar : FRANS THOMAS LATUNY]
+
+[Stasiun Meteorologi Kelas III Andi Djemma - Luwu UtaraBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Andi Djemma - Luwu UtaraBBMKG Wilayah IV Makassar: Jl. Dirgantara Masamba Kab. Luwu Utara Sulawesi Selatan Telp : 0473-21392
+Kepala Stasiun Meteorologi Kelas III Andi Djemma - Luwu UtaraBBMKG Wilayah IV Makassar : WINARNO NURDIYANTO]
+
+[Stasiun Meteorologi Kelas I Sultan Babullah - TernateBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas I Sultan Babullah - TernateBBMKG Wilayah IV Makassar: Jl. Bandara Ternate 97728 Kotak Pos 28 Telp : 0921-21948 Fax : 0921-21948, 21942 stamet.babullah@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Sultan Babullah - TernateBBMKG Wilayah IV Makassar : DJOKO SUMARDIONO, S.T]
+
+[Stasiun Meteorologi Kelas III Bandaneira - Maluku TengahBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Bandaneira - Maluku TengahBBMKG Wilayah IV Makassar: Komp. Bandara Banda Neira Kec. Banda Kab. Maluku Tengah Telp : 0910-21002
+Kepala Stasiun Meteorologi Kelas III Bandaneira - Maluku TengahBBMKG Wilayah IV Makassar : CARISZ KAINAMA, S.Si]
+
+[Stasiun Meteorologi Kelas III Betoambari - BaubauBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Betoambari - BaubauBBMKG Wilayah IV Makassar: Komplek Bandara Beto Ambari Bau-bau Telp : 0402-2823606 Fax : 0402-2823676
+Kepala Stasiun Meteorologi Kelas III Betoambari - BaubauBBMKG Wilayah IV Makassar : HADI SETIAWAN]
+
+[Stasiun Meteorologi Kelas III Syukuran Aminuddin Amir - BanggaiBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Syukuran Aminuddin Amir - BanggaiBBMKG Wilayah IV Makassar: Jl. Dr. Moh. Hatta Bandara Bubung Luwuk Telp : 0461-22787 Fax : 0461-21009
+Kepala Stasiun Meteorologi Kelas III Syukuran Aminuddin Amir - BanggaiBBMKG Wilayah IV Makassar : ALI MUSTOFA, SP]
+
+[Stasiun Meteorologi Kelas III Dumatubun - TualBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Dumatubun - TualBBMKG Wilayah IV Makassar: Bandara Dumatubun Langgur - Tual 97611 Telp : 0916-21075
+Kepala Stasiun Meteorologi Kelas III Dumatubun - TualBBMKG Wilayah IV Makassar : OCTAVIANUS JOOTJE ZADRAK, S.E]
+
+[Stasiun Meteorologi Kelas III Gamarmalamo Galela - Halmaher UtaraBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Gamarmalamo Galela - Halmaher UtaraBBMKG Wilayah IV Makassar: Stasiun Meteorologi Galela Gamarmalamo Maluku Utara
+Kepala Stasiun Meteorologi Kelas III Gamarmalamo Galela - Halmaher UtaraBBMKG Wilayah IV Makassar : WAHYU GURU IMANTOKO, S.Kom]
+
+[Stasiun Meteorologi Kelas III Geser - Seram Bagian TimurBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Geser - Seram Bagian TimurBBMKG Wilayah IV Makassar: Jl. Pendidikan Geser Kab. Seram Bagian Timur Maluku stamet.geser@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Geser - Seram Bagian TimurBBMKG Wilayah IV Makassar : CIPTA UTAMA, S.Si]
+
+[Stasiun Meteorologi Kelas I Djalaluddin - GorontaloBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas I Djalaluddin - GorontaloBBMKG Wilayah IV Makassar: Komp. Bandara Jalaluddin Gorontalo 96251 Telp : 0435-890393 stamet.jalaludin@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas I Djalaluddin - GorontaloBBMKG Wilayah IV Makassar : OT ORAL SEM WILAR, SE]
+
+[Stasiun Meteorologi Kelas III Kasiguncu - PosoBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Kasiguncu - PosoBBMKG Wilayah IV Makassar: Jl. Bandara Kasiguncu no. 202 Poso Telp/Fax : 0452-22835 stamet.poso@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Kasiguncu - PosoBBMKG Wilayah IV Makassar : RIDWAN, S.Sos]
+
+[Stasiun Meteorologi Kelas III Oesman Sadik - Halmahera SelatanBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Oesman Sadik - Halmahera SelatanBBMKG Wilayah IV Makassar: Komp. BMG Bandara Oesman Sadik Labuha Bacan Halmahera Selatan 97791 Telp : 0927-21255 Fax : 0927-21255
+Kepala Stasiun Meteorologi Kelas III Oesman Sadik - Halmahera SelatanBBMKG Wilayah IV Makassar : EKO WIJAYANDI, ST]
+
+[Stasiun Meteorologi Kelas III Sultan Bantilan - TolitoliBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Sultan Bantilan - TolitoliBBMKG Wilayah IV Makassar: Bandara Lalos Toli-toli 94561 Kotak Pos 25 Telp : 0453-23053
+Kepala Stasiun Meteorologi Kelas III Sultan Bantilan - TolitoliBBMKG Wilayah IV Makassar : IDRIS SIMON, SP]
+
+[Stasiun Meteorologi Kelas II MajeneBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas II MajeneBBMKG Wilayah IV Makassar: Jl. Lettu M. Yamin No.13 Kotak Pos 91411
+Kepala Stasiun Meteorologi Kelas II MajeneBBMKG Wilayah IV Makassar : AGUS, ST]
+
+[Stasiun Meteorologi Kelas III Naha - Kepulauan SangiheBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Naha - Kepulauan SangiheBBMKG Wilayah IV Makassar: Bandara Naha - Tahuna Kab. Sangir Talaud 95856
+Kepala Stasiun Meteorologi Kelas III Naha - Kepulauan SangiheBBMKG Wilayah IV Makassar : MUSTAPA MASOARA, S.A.P]
+
+[Stasiun Meteorologi Kelas III Namlea - BuruBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Namlea - BuruBBMKG Wilayah IV Makassar: Bandara Namlea, Kec. Namlea, Kab. Buru
+Kepala Stasiun Meteorologi Kelas III Namlea - BuruBBMKG Wilayah IV Makassar : EDDY EVERT FAUTNGILYANAN]
+
+[Stasiun Meteorologi Kelas III Mathilda Batlayeri - Maluku Tenggara BaratBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Mathilda Batlayeri - Maluku Tenggara BaratBBMKG Wilayah IV Makassar: Komplek Meteorologi Jl. Harapan - Saumlaki Telp : 0918-21009 Fax : 0918-21009 stamet.saumlaki@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Mathilda Batlayeri - Maluku Tenggara BaratBBMKG Wilayah IV Makassar : ANDI ILHAM TAHIR, ST]
+
+[Stasiun Meteorologi Kelas III Sangia Ni Bandera - KolakaBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Sangia Ni Bandera - KolakaBBMKG Wilayah IV Makassar: Stasiun Meteorologi Pomalaa - Kolaka Telp : 0405-2310807 Fax : 0405-2310807
+Kepala Stasiun Meteorologi Kelas III Sangia Ni Bandera - KolakaBBMKG Wilayah IV Makassar : DANU TRIATMOKO, S.Si]
+
+[Stasiun Meteorologi Kelas III Emalamo - Kepulauan SulaBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas III Emalamo - Kepulauan SulaBBMKG Wilayah IV Makassar: Jl. Fogi - Sanana Maluku Utara Telp : 0929-21172
+Kepala Stasiun Meteorologi Kelas III Emalamo - Kepulauan SulaBBMKG Wilayah IV Makassar : MOHAMAD RIVA NARUDIN, ST]
+
+[Stasiun Meteorologi Kelas II Maritim KendariBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas II Maritim KendariBBMKG Wilayah IV Makassar: Jl. Jendral Sudirman No. 158 Kendari 93127 Telp : 0401-328528 Fax : 0401-328528
+Kepala Stasiun Meteorologi Kelas II Maritim KendariBBMKG Wilayah IV Makassar : SUGENG WIDARKO, S.Si]
+
+[Stasiun Meteorologi Kelas IV Pongtiku - Tana TorajaBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas IV Pongtiku - Tana TorajaBBMKG Wilayah IV Makassar: Stasiun Meteorologi Pongtiku Tana Toraja
+Kepala Stasiun Meteorologi Kelas IV Pongtiku - Tana TorajaBBMKG Wilayah IV Makassar : BURHANUDDIN, SE]
+
+[Stasiun Pemantau Atmosfer Global Lore Lindu Bariri - PosoBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Pemantau Atmosfer Global Lore Lindu Bariri - PosoBBMKG Wilayah IV Makassar: Kabupaten Poso, Sulawesi Tengah
+Kepala Stasiun Pemantau Atmosfer Global Lore Lindu Bariri - PosoBBMKG Wilayah IV Makassar : ASEP FIRMAN ILAHI, S.Stat]
+
+[Stasiun Klimatologi Kelas IV Tilongkabila - Bone BolangoBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Klimatologi Kelas IV Tilongkabila - Bone BolangoBBMKG Wilayah IV Makassar: 
+Kepala Stasiun Klimatologi Kelas IV Tilongkabila - Bone BolangoBBMKG Wilayah IV Makassar : MERPATI TEODORIS NALLE, S.TP]
+
+[Stasiun Klimatologi Kelas IV Ranomeeto - Konawe SelatanBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Klimatologi Kelas IV Ranomeeto - Konawe SelatanBBMKG Wilayah IV Makassar: 
+Kepala Stasiun Klimatologi Kelas IV Ranomeeto - Konawe SelatanBBMKG Wilayah IV Makassar : ARIS YUNATAS]
+
+[Stasiun Geofisika Kelas II GorontaloBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Geofisika Kelas II GorontaloBBMKG Wilayah IV Makassar: 
+Kepala Stasiun Geofisika Kelas II GorontaloBBMKG Wilayah IV Makassar : GANDAMANA MATONDANG, ST]
+
+[Stasiun Meteorologi Kelas IV Maritim AmbonBBMKG Wilayah IV Makassar 
+ Alamat Stasiun Meteorologi Kelas IV Maritim AmbonBBMKG Wilayah IV Makassar: 
+Kepala Stasiun Meteorologi Kelas IV Maritim AmbonBBMKG Wilayah IV Makassar : ASHAR, S.Kom]
+
+[Stasiun Geofisika Kelas I Angkasapura - JayapuraBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Geofisika Kelas I Angkasapura - JayapuraBBMKG Wilayah V Jayapura: Stasiun Geofisika Angkasa Pura, Papua Telp : 0967-533533 Fax : 0967-536211 stageof.angkasa@bmkg.go.id
+Kepala Stasiun Geofisika Kelas I Angkasapura - JayapuraBBMKG Wilayah V Jayapura : HERLAMBANG HUDHA]
+
+[Stasiun Geofisika Kelas III SorongBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Geofisika Kelas III SorongBBMKG Wilayah V Jayapura: Jl. D. Siwiki No. 1 Puncak Cendrawasih Sorong, Irian Jaya Barat Telp : 0951-321785
+Kepala Stasiun Geofisika Kelas III SorongBBMKG Wilayah V Jayapura : DEDY IRJAYANTO, S.Si, M.Sc]
+
+[Stasiun Klimatologi Kelas III JayapuraBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Klimatologi Kelas III JayapuraBBMKG Wilayah V Jayapura: Stasiun Klimatologi Genyem Telp : 0967-91843
+Kepala Stasiun Klimatologi Kelas III JayapuraBBMKG Wilayah V Jayapura : DONY CHRISTIANTO, M.Si]
+
+[Stasiun Klimatologi Kelas III Manokwari SelatanBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Klimatologi Kelas III Manokwari SelatanBBMKG Wilayah V Jayapura: Manokwari Selatan, Papua Barat 48355 Telp : 0980-31167
+Kepala Stasiun Klimatologi Kelas III Manokwari SelatanBBMKG Wilayah V Jayapura : UCI SANUSI, SE]
+
+[Stasiun Meteorologi Kelas I Frans Kaisiepo - Biak NumforBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas I Frans Kaisiepo - Biak NumforBBMKG Wilayah V Jayapura: Jl. Prof. Moch. Yamin Biak 98111 Telp : 0981-21284, 21742 Fax : 0981-22824
+Kepala Stasiun Meteorologi Kelas I Frans Kaisiepo - Biak NumforBBMKG Wilayah V Jayapura : LUWI AGUNG PRASAJA]
+
+[Stasiun Meteorologi Kelas I Seigun - SorongBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas I Seigun - SorongBBMKG Wilayah V Jayapura: Stasiun Meteorologi Jefman Sorong Telp : 0951-327457
+Kepala Stasiun Meteorologi Kelas I Seigun - SorongBBMKG Wilayah V Jayapura : INDAR ADI WALUYO, S.Si]
+
+[Stasiun Meteorologi Kelas III Dok II - JayapuraBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Dok II - JayapuraBBMKG Wilayah V Jayapura: Jl. Bhayangkara II, Jayapura Utara, Kotak Pos 1968 Telp/Fax : 0967-536189 stametdok2@yahoo.com
+Kepala Stasiun Meteorologi Kelas III Dok II - JayapuraBBMKG Wilayah V Jayapura : HERI PURNOMO, S.Si]
+
+[Stasiun Meteorologi Kelas III Enarotali - PaniaiBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Enarotali - PaniaiBBMKG Wilayah V Jayapura: Bandara Enarotali Peniai Irian Jaya
+Kepala Stasiun Meteorologi Kelas III Enarotali - PaniaiBBMKG Wilayah V Jayapura : RENDRAH YOHANIS KALALO, S.TR]
+
+[Stasiun Meteorologi Kelas III Mararena - SarmiBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Mararena - SarmiBBMKG Wilayah V Jayapura: Bandara Udara Mararena Sarmi - Papua Telp : 0966-31146
+Kepala Stasiun Meteorologi Kelas III Mararena - SarmiBBMKG Wilayah V Jayapura : NOAK OMLO MAYOR, SE]
+
+[Stasiun Meteorologi Kelas III Mopah - MeraukeBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Mopah - MeraukeBBMKG Wilayah V Jayapura: Jl. Bandara Mopah Merauke Telp : 0971-321774 Fax : 0971-322895 stamet.merauke@bmkg.go.id
+Kepala Stasiun Meteorologi Kelas III Mopah - MeraukeBBMKG Wilayah V Jayapura : GATOT RUDIANTORO]
+
+[Stasiun Meteorologi Kelas III Rendani - ManokwariBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Rendani - ManokwariBBMKG Wilayah V Jayapura: Jl. Trikora Rendani Manokwari No. 2 Telp : 0986-212435
+Kepala Stasiun Meteorologi Kelas III Rendani - ManokwariBBMKG Wilayah V Jayapura : DANIEL TANDI, S.Si]
+
+[Stasiun Meteorologi Kelas III Sudjarwo Tjondro Negoro - Kepulauan YapenBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Sudjarwo Tjondro Negoro - Kepulauan YapenBBMKG Wilayah V Jayapura: Jl. Jend. Sudirman Telp : 0983-33703
+Kepala Stasiun Meteorologi Kelas III Sudjarwo Tjondro Negoro - Kepulauan YapenBBMKG Wilayah V Jayapura : LUIS KORNELIS DUWIRI, S.Si]
+
+[Stasiun Meteorologi Kelas III Tanah Merah - Boven DigulBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Tanah Merah - Boven DigulBBMKG Wilayah V Jayapura: Komp. Bandara Tanah Merah 99663 Telp : 0975-31155
+Kepala Stasiun Meteorologi Kelas III Tanah Merah - Boven DigulBBMKG Wilayah V Jayapura : SUTARMIN, SE]
+
+[Stasiun Meteorologi Kelas III Mozez Kilangin - MimikaBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Mozez Kilangin - MimikaBBMKG Wilayah V Jayapura: Jl. Raya Freeport Bandar Udara Timika Telp : 0901-321868, 424004 Fax : 0901-321868
+Kepala Stasiun Meteorologi Kelas III Mozez Kilangin - MimikaBBMKG Wilayah V Jayapura : OKTO FIRDAUS FAJRI RIANTO, ST]
+
+[Stasiun Meteorologi Kelas III Torea FakfakBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Torea FakfakBBMKG Wilayah V Jayapura: Jl. Adi Sucipto No. 1 Telp : 0956-22661
+Kepala Stasiun Meteorologi Kelas III Torea FakfakBBMKG Wilayah V Jayapura : RM YEHUDA STEVANUS]
+
+[Stasiun Meteorologi Kelas III Utarom - KaimanaBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Utarom - KaimanaBBMKG Wilayah V Jayapura: Jl. Tarom Kaimana Telp : 0957-21443
+Kepala Stasiun Meteorologi Kelas III Utarom - KaimanaBBMKG Wilayah V Jayapura : JEMES FREDERIK WIHIAWARY]
+
+[Stasiun Meteorologi Kelas III Wamena - JayawijayaBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Wamena - JayawijayaBBMKG Wilayah V Jayapura: 
+Kepala Stasiun Meteorologi Kelas III Wamena - JayawijayaBBMKG Wilayah V Jayapura : SUBAHARI]
+
+[Stasiun Meteorologi Kelas III Moanamani - NabireBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Meteorologi Kelas III Moanamani - NabireBBMKG Wilayah V Jayapura: Jl. Sisingamangaraja Bandara Nabire Telp : 0984-22559
+Kepala Stasiun Meteorologi Kelas III Moanamani - NabireBBMKG Wilayah V Jayapura : HUSAIN, S.Tr]
+
+[Stasiun Pemantau Atmosfer Global Puncak Vihara Klademak - SorongBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Pemantau Atmosfer Global Puncak Vihara Klademak - SorongBBMKG Wilayah V Jayapura: Kota Sorong, Papua Barat
+Kepala Stasiun Pemantau Atmosfer Global Puncak Vihara Klademak - SorongBBMKG Wilayah V Jayapura : BUDI SATRIA]
+
+[Stasiun Klimatologi Kelas IV Tanah Miring - MeraukeBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Klimatologi Kelas IV Tanah Miring - MeraukeBBMKG Wilayah V Jayapura: 
+Kepala Stasiun Klimatologi Kelas IV Tanah Miring - MeraukeBBMKG Wilayah V Jayapura : SULAIMAN, S.Si]
+
+[Stasiun Geofisika Kelas III NabireBBMKG Wilayah V Jayapura 
+ Alamat Stasiun Geofisika Kelas III NabireBBMKG Wilayah V Jayapura: 
+Kepala Stasiun Geofisika Kelas III NabireBBMKG Wilayah V Jayapura : NATANIEL SIMON G. RUMY]
+

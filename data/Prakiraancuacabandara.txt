@@ -1,0 +1,5907 @@
+
+Data ini diambil pada: 2024-07-31 13:10:06 Jika terdapat data diawal dari jam 01:00 - 20:00 pada tanggal 2024-07-31 13:10:06 dan dibawah urutan kolom terdapat data 00:00 - dst maka tanggal sudah berganti menjadi tanggal selanjutnya  
+
+[PRAKIRAAN CUACA BANDARA: Maimun Saleh - Sabang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Iskandar Muda - Banda Aceh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cut Nyak Dien Nagan Raya - Meulaboh, NAD
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Malikus Saleh - Lhokseumawe
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Binaka - Gunung Sitoli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Kualanamu International Airport - Deli Serdang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Silangit - Tapanuli Utara
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 42.6 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aek Godang - Padang Sidempuan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Minangkabau International Airport - Padang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mukomuko
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Syarif Kasim II - Pekanbaru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Parbo - Kerinci
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Japura - Rengat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fatmawati Sukarno - Bengkulu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Abdullah - Tanjung Balai Karimun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Thaha - Jambi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Hang Nadim - Batam
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Fisabilillah - Tanjung Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dabo - Singkep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Mahmud Badaruddin II - Palembang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Radin Inten II - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Astra Ksetra - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Amir - Pangkal Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Budiarto - Curug
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Soekarno Hatta - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Atang Sendjaja - Bogor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Halim Perdana Kusuma - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Husein Sastranegara - Bandung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Suryadarma - Kalijati, Subang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: H.A.S. Hanandjoeddin - Tanjung Pandan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kertajati
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wiriadinata - Cibeureum, Tasikmalaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Ranai - Natuna
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 31.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Cakrabhuwana / Penggung - Cirebon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tunggul Wulung - Cilacap
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Supadio - Pontianak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rahadi Oesman - Ketapang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yogyakarta International Airport - Kulonprogo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Ahmad Yani - Semarang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Sutjipto - Yogyakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Soemarmo - Surakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iswahjudi - Madiun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tebelian - Sintang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iskandar - Pangkalan Bun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nanga Pinoh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dhoho
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bawean - Harun Thohir
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Abdulrachman Saleh - Malang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juanda - Surabaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pangsuma - Putussibau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Asan - Sampit
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Noto Hadinegoro - Jember
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Trunojoyo - Sumenep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tjilik Riwut - Palangkaraya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Banyuwangi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sanggu - Buntok
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 3.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Muhammad Sidik - Muara Teweh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: H. Hasan Aroeboesman - Ende
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 13:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandar Udara Toraja
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syamsudin Noor - Banjarmasin
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: I Gusti Ngurah Rai - Denpasar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yuvai Semaring - Long Bawang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gusti Sjamsir Alam - Kota Baru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Bandara Internasional Lombok - Praya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Aji Muhammad Sulaiman - Sepinggan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aji Pangeran Tumenggung Pranoto - Samarinda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanjung Harapan - Tanjung Selor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Kaharuddin - Sumbawa Besar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kalimarau - Tanjung Redeb
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juwata - Tarakan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nunukan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Salahuddin - Bima
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tampa Padang - Mamuju
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Tambolaka - Sumba Barat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Hasanuddin - Makassar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Komodo - Labuan Bajo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Umbu Mehang Kunda - Waingapu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Andi Jemma - Masamba
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Sales Lega - Ruteng
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Kasiguncu - Poso
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Bantilan - Toli Toli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: SOA - Bajawa
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sangia Nibandera - Kolaka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tardamu - Sabu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fransiskus Xaverius Seda - Maumere
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haluoleo - Kendari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Beto Ambari - Bau Bau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syukuran Aminuddin Amir - Luwuk
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Djalaluddin - Gorontalo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gewayantana - Larantuka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: David Constantijn Saudale - Rote
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wunopito - Lembata
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: El Tari - Kupang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 33.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mali - Alor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: A.A. Bere Talo / Atambua
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sam Ratulangi - Manado
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WITA
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Emalamo - Sanana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Namniwel - Namlea
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Babullah - Ternate
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Oesman Sadik - Labuha
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gamar Malamo - Galela
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: 
+Kecepatan Angin:  km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Kuabang Kao
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Pattimura - Ambon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pitu - Morotai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Amahai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandaneira - Banda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Domine Eduard Osok - Sorong
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Mathilda Batlayeri - Saumlaki
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Torea - Fak Fak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Karel Sadsuitubun - Tual
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Utarom - Kaimana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rendani - Manokwari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Douw Aturure - Nabire
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Stevanus Rumbewas - Serui
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Barat
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Kaisiepo - Biak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Timur Laut
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Enarotali
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Mozes Kilangin - Timika
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mararena / Orai - Sarmi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wamena
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanah Merah
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mopah - Merauke
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sentani - Jayapura
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Maimun Saleh - Sabang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Iskandar Muda - Banda Aceh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cut Nyak Dien Nagan Raya - Meulaboh, NAD
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Malikus Saleh - Lhokseumawe
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Binaka - Gunung Sitoli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Kualanamu International Airport - Deli Serdang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Silangit - Tapanuli Utara
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 42.6 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aek Godang - Padang Sidempuan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Minangkabau International Airport - Padang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 1.5
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Mukomuko
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Syarif Kasim II - Pekanbaru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Parbo - Kerinci
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Japura - Rengat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fatmawati Sukarno - Bengkulu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Abdullah - Tanjung Balai Karimun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Thaha - Jambi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Hang Nadim - Batam
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Fisabilillah - Tanjung Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dabo - Singkep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Mahmud Badaruddin II - Palembang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Radin Inten II - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Astra Ksetra - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Amir - Pangkal Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Budiarto - Curug
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Soekarno Hatta - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Atang Sendjaja - Bogor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Halim Perdana Kusuma - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Husein Sastranegara - Bandung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Suryadarma - Kalijati, Subang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: H.A.S. Hanandjoeddin - Tanjung Pandan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kertajati
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wiriadinata - Cibeureum, Tasikmalaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Ranai - Natuna
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 31.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Cakrabhuwana / Penggung - Cirebon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tunggul Wulung - Cilacap
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Supadio - Pontianak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rahadi Oesman - Ketapang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yogyakarta International Airport - Kulonprogo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Ahmad Yani - Semarang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Sutjipto - Yogyakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Soemarmo - Surakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iswahjudi - Madiun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tebelian - Sintang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iskandar - Pangkalan Bun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nanga Pinoh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dhoho
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bawean - Harun Thohir
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Abdulrachman Saleh - Malang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juanda - Surabaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pangsuma - Putussibau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Asan - Sampit
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Noto Hadinegoro - Jember
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Trunojoyo - Sumenep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tjilik Riwut - Palangkaraya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Banyuwangi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sanggu - Buntok
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 3.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Muhammad Sidik - Muara Teweh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: H. Hasan Aroeboesman - Ende
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 14:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandar Udara Toraja
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syamsudin Noor - Banjarmasin
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: I Gusti Ngurah Rai - Denpasar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yuvai Semaring - Long Bawang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gusti Sjamsir Alam - Kota Baru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Bandara Internasional Lombok - Praya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Aji Muhammad Sulaiman - Sepinggan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aji Pangeran Tumenggung Pranoto - Samarinda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanjung Harapan - Tanjung Selor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Kaharuddin - Sumbawa Besar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Kalimarau - Tanjung Redeb
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juwata - Tarakan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nunukan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Salahuddin - Bima
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tampa Padang - Mamuju
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Tambolaka - Sumba Barat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Hasanuddin - Makassar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Komodo - Labuan Bajo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Umbu Mehang Kunda - Waingapu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Andi Jemma - Masamba
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Sales Lega - Ruteng
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Kasiguncu - Poso
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Bantilan - Toli Toli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: SOA - Bajawa
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sangia Nibandera - Kolaka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Tardamu - Sabu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fransiskus Xaverius Seda - Maumere
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haluoleo - Kendari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Beto Ambari - Bau Bau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syukuran Aminuddin Amir - Luwuk
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Djalaluddin - Gorontalo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gewayantana - Larantuka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: David Constantijn Saudale - Rote
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wunopito - Lembata
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: El Tari - Kupang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 33.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mali - Alor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: A.A. Bere Talo / Atambua
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sam Ratulangi - Manado
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WITA
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Emalamo - Sanana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Namniwel - Namlea
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Babullah - Ternate
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Oesman Sadik - Labuha
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gamar Malamo - Galela
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: 
+Kecepatan Angin:  km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Kuabang Kao
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Pattimura - Ambon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pitu - Morotai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Amahai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandaneira - Banda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Domine Eduard Osok - Sorong
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Mathilda Batlayeri - Saumlaki
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Torea - Fak Fak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Karel Sadsuitubun - Tual
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Utarom - Kaimana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rendani - Manokwari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Douw Aturure - Nabire
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Stevanus Rumbewas - Serui
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Barat
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Kaisiepo - Biak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Timur Laut
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Enarotali
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Mozes Kilangin - Timika
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mararena / Orai - Sarmi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wamena
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanah Merah
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mopah - Merauke
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sentani - Jayapura
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Maimun Saleh - Sabang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Iskandar Muda - Banda Aceh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cut Nyak Dien Nagan Raya - Meulaboh, NAD
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Malikus Saleh - Lhokseumawe
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Binaka - Gunung Sitoli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Kualanamu International Airport - Deli Serdang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Silangit - Tapanuli Utara
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 42.6 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aek Godang - Padang Sidempuan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Minangkabau International Airport - Padang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 1.5
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Mukomuko
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Syarif Kasim II - Pekanbaru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Parbo - Kerinci
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Japura - Rengat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fatmawati Sukarno - Bengkulu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Abdullah - Tanjung Balai Karimun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Thaha - Jambi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Hang Nadim - Batam
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Fisabilillah - Tanjung Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dabo - Singkep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Mahmud Badaruddin II - Palembang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Radin Inten II - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Astra Ksetra - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Amir - Pangkal Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Budiarto - Curug
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Soekarno Hatta - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Atang Sendjaja - Bogor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Halim Perdana Kusuma - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Husein Sastranegara - Bandung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Suryadarma - Kalijati, Subang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: H.A.S. Hanandjoeddin - Tanjung Pandan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kertajati
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wiriadinata - Cibeureum, Tasikmalaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Ranai - Natuna
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cakrabhuwana / Penggung - Cirebon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tunggul Wulung - Cilacap
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Supadio - Pontianak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rahadi Oesman - Ketapang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yogyakarta International Airport - Kulonprogo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Ahmad Yani - Semarang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Sutjipto - Yogyakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Soemarmo - Surakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iswahjudi - Madiun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tebelian - Sintang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iskandar - Pangkalan Bun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nanga Pinoh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dhoho
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bawean - Harun Thohir
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Abdulrachman Saleh - Malang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Juanda - Surabaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pangsuma - Putussibau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Asan - Sampit
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Noto Hadinegoro - Jember
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Trunojoyo - Sumenep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tjilik Riwut - Palangkaraya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Banyuwangi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sanggu - Buntok
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 3.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Muhammad Sidik - Muara Teweh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: H. Hasan Aroeboesman - Ende
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 15:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandar Udara Toraja
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syamsudin Noor - Banjarmasin
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: I Gusti Ngurah Rai - Denpasar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yuvai Semaring - Long Bawang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gusti Sjamsir Alam - Kota Baru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Bandara Internasional Lombok - Praya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Aji Muhammad Sulaiman - Sepinggan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aji Pangeran Tumenggung Pranoto - Samarinda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanjung Harapan - Tanjung Selor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Kaharuddin - Sumbawa Besar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Kalimarau - Tanjung Redeb
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juwata - Tarakan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nunukan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Salahuddin - Bima
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tampa Padang - Mamuju
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Tambolaka - Sumba Barat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Hasanuddin - Makassar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Komodo - Labuan Bajo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Umbu Mehang Kunda - Waingapu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Andi Jemma - Masamba
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Sales Lega - Ruteng
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kasiguncu - Poso
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Bantilan - Toli Toli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: SOA - Bajawa
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sangia Nibandera - Kolaka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Tardamu - Sabu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fransiskus Xaverius Seda - Maumere
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haluoleo - Kendari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Beto Ambari - Bau Bau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syukuran Aminuddin Amir - Luwuk
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Djalaluddin - Gorontalo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gewayantana - Larantuka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: David Constantijn Saudale - Rote
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wunopito - Lembata
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: El Tari - Kupang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 33.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mali - Alor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: A.A. Bere Talo / Atambua
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sam Ratulangi - Manado
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WITA
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Emalamo - Sanana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Namniwel - Namlea
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Babullah - Ternate
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Oesman Sadik - Labuha
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gamar Malamo - Galela
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: 
+Kecepatan Angin:  km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Kuabang Kao
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Pattimura - Ambon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pitu - Morotai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Amahai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandaneira - Banda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Domine Eduard Osok - Sorong
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mathilda Batlayeri - Saumlaki
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Torea - Fak Fak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Karel Sadsuitubun - Tual
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Utarom - Kaimana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rendani - Manokwari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Douw Aturure - Nabire
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Stevanus Rumbewas - Serui
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Barat
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Kaisiepo - Biak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Timur Laut
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Enarotali
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Mozes Kilangin - Timika
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan ringan tiba-tiba]
+
+[PRAKIRAAN CUACA BANDARA: Mararena / Orai - Sarmi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wamena
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanah Merah
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mopah - Merauke
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sentani - Jayapura
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Maimun Saleh - Sabang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Iskandar Muda - Banda Aceh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cut Nyak Dien Nagan Raya - Meulaboh, NAD
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Malikus Saleh - Lhokseumawe
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Binaka - Gunung Sitoli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kualanamu International Airport - Deli Serdang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Silangit - Tapanuli Utara
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 42.6 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aek Godang - Padang Sidempuan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Minangkabau International Airport - Padang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 1.5
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Mukomuko
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Syarif Kasim II - Pekanbaru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Parbo - Kerinci
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Japura - Rengat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fatmawati Sukarno - Bengkulu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Abdullah - Tanjung Balai Karimun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Thaha - Jambi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Hang Nadim - Batam
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Fisabilillah - Tanjung Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dabo - Singkep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Mahmud Badaruddin II - Palembang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Radin Inten II - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Astra Ksetra - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Amir - Pangkal Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Budiarto - Curug
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Soekarno Hatta - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Atang Sendjaja - Bogor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Halim Perdana Kusuma - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Husein Sastranegara - Bandung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Suryadarma - Kalijati, Subang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: H.A.S. Hanandjoeddin - Tanjung Pandan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kertajati
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wiriadinata - Cibeureum, Tasikmalaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Ranai - Natuna
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cakrabhuwana / Penggung - Cirebon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tunggul Wulung - Cilacap
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Supadio - Pontianak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rahadi Oesman - Ketapang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yogyakarta International Airport - Kulonprogo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Ahmad Yani - Semarang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Sutjipto - Yogyakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Soemarmo - Surakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iswahjudi - Madiun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tebelian - Sintang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iskandar - Pangkalan Bun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nanga Pinoh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dhoho
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bawean - Harun Thohir
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Abdulrachman Saleh - Malang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Juanda - Surabaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pangsuma - Putussibau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Asan - Sampit
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Noto Hadinegoro - Jember
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Trunojoyo - Sumenep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tjilik Riwut - Palangkaraya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Banyuwangi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sanggu - Buntok
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 3.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Muhammad Sidik - Muara Teweh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: H. Hasan Aroeboesman - Ende
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 16:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandar Udara Toraja
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syamsudin Noor - Banjarmasin
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: I Gusti Ngurah Rai - Denpasar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yuvai Semaring - Long Bawang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gusti Sjamsir Alam - Kota Baru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Bandara Internasional Lombok - Praya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Aji Muhammad Sulaiman - Sepinggan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aji Pangeran Tumenggung Pranoto - Samarinda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanjung Harapan - Tanjung Selor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Kaharuddin - Sumbawa Besar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Kalimarau - Tanjung Redeb
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juwata - Tarakan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nunukan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Salahuddin - Bima
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tampa Padang - Mamuju
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Guntur dan hujan]
+
+[PRAKIRAAN CUACA BANDARA: Tambolaka - Sumba Barat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Hasanuddin - Makassar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Komodo - Labuan Bajo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Umbu Mehang Kunda - Waingapu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Andi Jemma - Masamba
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Sales Lega - Ruteng
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kasiguncu - Poso
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Bantilan - Toli Toli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: SOA - Bajawa
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sangia Nibandera - Kolaka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tardamu - Sabu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fransiskus Xaverius Seda - Maumere
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haluoleo - Kendari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Beto Ambari - Bau Bau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syukuran Aminuddin Amir - Luwuk
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Djalaluddin - Gorontalo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gewayantana - Larantuka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: David Constantijn Saudale - Rote
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wunopito - Lembata
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: El Tari - Kupang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 33.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mali - Alor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: A.A. Bere Talo / Atambua
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sam Ratulangi - Manado
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WITA
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Emalamo - Sanana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Namniwel - Namlea
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Babullah - Ternate
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Oesman Sadik - Labuha
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gamar Malamo - Galela
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kuabang Kao
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pattimura - Ambon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pitu - Morotai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Amahai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandaneira - Banda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Domine Eduard Osok - Sorong
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mathilda Batlayeri - Saumlaki
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Torea - Fak Fak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Karel Sadsuitubun - Tual
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Utarom - Kaimana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rendani - Manokwari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Douw Aturure - Nabire
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Stevanus Rumbewas - Serui
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Barat
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Kaisiepo - Biak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Timur Laut
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Enarotali
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mozes Kilangin - Timika
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan ringan tiba-tiba]
+
+[PRAKIRAAN CUACA BANDARA: Mararena / Orai - Sarmi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wamena
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanah Merah
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mopah - Merauke
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sentani - Jayapura
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Maimun Saleh - Sabang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Iskandar Muda - Banda Aceh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cut Nyak Dien Nagan Raya - Meulaboh, NAD
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Malikus Saleh - Lhokseumawe
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Guntur]
+
+[PRAKIRAAN CUACA BANDARA: Binaka - Gunung Sitoli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kualanamu International Airport - Deli Serdang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Silangit - Tapanuli Utara
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 42.6 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aek Godang - Padang Sidempuan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Minangkabau International Airport - Padang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mukomuko
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Syarif Kasim II - Pekanbaru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Parbo - Kerinci
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Japura - Rengat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fatmawati Sukarno - Bengkulu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Abdullah - Tanjung Balai Karimun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Thaha - Jambi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Hang Nadim - Batam
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Fisabilillah - Tanjung Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dabo - Singkep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Mahmud Badaruddin II - Palembang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Radin Inten II - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Astra Ksetra - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Amir - Pangkal Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Budiarto - Curug
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Soekarno Hatta - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Atang Sendjaja - Bogor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Halim Perdana Kusuma - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Husein Sastranegara - Bandung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Suryadarma - Kalijati, Subang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: H.A.S. Hanandjoeddin - Tanjung Pandan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kertajati
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wiriadinata - Cibeureum, Tasikmalaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Ranai - Natuna
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cakrabhuwana / Penggung - Cirebon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tunggul Wulung - Cilacap
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Supadio - Pontianak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rahadi Oesman - Ketapang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yogyakarta International Airport - Kulonprogo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Ahmad Yani - Semarang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Sutjipto - Yogyakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Soemarmo - Surakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iswahjudi - Madiun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tebelian - Sintang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iskandar - Pangkalan Bun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nanga Pinoh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dhoho
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bawean - Harun Thohir
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Abdulrachman Saleh - Malang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Juanda - Surabaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pangsuma - Putussibau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Asan - Sampit
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Noto Hadinegoro - Jember
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Trunojoyo - Sumenep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tjilik Riwut - Palangkaraya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Banyuwangi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sanggu - Buntok
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 3.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Muhammad Sidik - Muara Teweh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: H. Hasan Aroeboesman - Ende
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 17:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandar Udara Toraja
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syamsudin Noor - Banjarmasin
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: I Gusti Ngurah Rai - Denpasar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yuvai Semaring - Long Bawang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gusti Sjamsir Alam - Kota Baru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandara Internasional Lombok - Praya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Aji Muhammad Sulaiman - Sepinggan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aji Pangeran Tumenggung Pranoto - Samarinda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanjung Harapan - Tanjung Selor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Kaharuddin - Sumbawa Besar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Kalimarau - Tanjung Redeb
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juwata - Tarakan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nunukan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Salahuddin - Bima
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tampa Padang - Mamuju
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tambolaka - Sumba Barat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Hasanuddin - Makassar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Komodo - Labuan Bajo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Umbu Mehang Kunda - Waingapu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Andi Jemma - Masamba
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Sales Lega - Ruteng
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kasiguncu - Poso
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Bantilan - Toli Toli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: SOA - Bajawa
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sangia Nibandera - Kolaka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tardamu - Sabu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fransiskus Xaverius Seda - Maumere
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haluoleo - Kendari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Beto Ambari - Bau Bau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syukuran Aminuddin Amir - Luwuk
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Djalaluddin - Gorontalo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gewayantana - Larantuka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: David Constantijn Saudale - Rote
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wunopito - Lembata
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: El Tari - Kupang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 33.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mali - Alor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: A.A. Bere Talo / Atambua
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sam Ratulangi - Manado
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WITA
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Emalamo - Sanana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Namniwel - Namlea
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Babullah - Ternate
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Oesman Sadik - Labuha
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gamar Malamo - Galela
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kuabang Kao
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pattimura - Ambon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pitu - Morotai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Amahai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandaneira - Banda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Domine Eduard Osok - Sorong
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mathilda Batlayeri - Saumlaki
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Torea - Fak Fak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Karel Sadsuitubun - Tual
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Utarom - Kaimana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rendani - Manokwari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Douw Aturure - Nabire
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Stevanus Rumbewas - Serui
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Barat
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Kaisiepo - Biak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Timur Laut
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Enarotali
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mozes Kilangin - Timika
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mararena / Orai - Sarmi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wamena
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanah Merah
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mopah - Merauke
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sentani - Jayapura
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Maimun Saleh - Sabang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Iskandar Muda - Banda Aceh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cut Nyak Dien Nagan Raya - Meulaboh, NAD
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Malikus Saleh - Lhokseumawe
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Guntur]
+
+[PRAKIRAAN CUACA BANDARA: Binaka - Gunung Sitoli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kualanamu International Airport - Deli Serdang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Guntur dan hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Silangit - Tapanuli Utara
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 42.6 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aek Godang - Padang Sidempuan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Minangkabau International Airport - Padang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mukomuko
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 3.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Syarif Kasim II - Pekanbaru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Parbo - Kerinci
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Japura - Rengat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fatmawati Sukarno - Bengkulu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Abdullah - Tanjung Balai Karimun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Thaha - Jambi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Hang Nadim - Batam
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Raja Haji Fisabilillah - Tanjung Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dabo - Singkep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Mahmud Badaruddin II - Palembang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Radin Inten II - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Astra Ksetra - Lampung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Depati Amir - Pangkal Pinang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Budiarto - Curug
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Soekarno Hatta - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Atang Sendjaja - Bogor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Utara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Halim Perdana Kusuma - Jakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Husein Sastranegara - Bandung
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Suryadarma - Kalijati, Subang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: H.A.S. Hanandjoeddin - Tanjung Pandan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kertajati
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wiriadinata - Cibeureum, Tasikmalaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Udara kabur]
+
+[PRAKIRAAN CUACA BANDARA: Ranai - Natuna
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Cakrabhuwana / Penggung - Cirebon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tunggul Wulung - Cilacap
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Supadio - Pontianak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rahadi Oesman - Ketapang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 6.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yogyakarta International Airport - Kulonprogo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Ahmad Yani - Semarang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Sutjipto - Yogyakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Adi Soemarmo - Surakarta
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat Daya
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iswahjudi - Madiun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tebelian - Sintang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Iskandar - Pangkalan Bun
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nanga Pinoh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Dhoho
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bawean - Harun Thohir
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Abdulrachman Saleh - Malang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juanda - Surabaya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pangsuma - Putussibau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Asan - Sampit
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Noto Hadinegoro - Jember
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Trunojoyo - Sumenep
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tjilik Riwut - Palangkaraya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Banyuwangi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sanggu - Buntok
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Barat
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan ringan]
+
+[PRAKIRAAN CUACA BANDARA: Haji Muhammad Sidik - Muara Teweh
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: H. Hasan Aroeboesman - Ende
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 18:47 WIB
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandar Udara Toraja
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syamsudin Noor - Banjarmasin
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: I Gusti Ngurah Rai - Denpasar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Yuvai Semaring - Long Bawang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gusti Sjamsir Alam - Kota Baru
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandara Internasional Lombok - Praya
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Aji Muhammad Sulaiman - Sepinggan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Aji Pangeran Tumenggung Pranoto - Samarinda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanjung Harapan - Tanjung Selor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Kaharuddin - Sumbawa Besar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 13.0 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kalimarau - Tanjung Redeb
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Juwata - Tarakan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Daya
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Nunukan
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Muhammad Salahuddin - Bima
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tampa Padang - Mamuju
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tambolaka - Sumba Barat
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Hasanuddin - Makassar
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Komodo - Labuan Bajo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 27.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Umbu Mehang Kunda - Waingapu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Andi Jemma - Masamba
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 5.6 km/jam
+Visibility atau Jarak Pandang: 5.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Sales Lega - Ruteng
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kasiguncu - Poso
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Bantilan - Toli Toli
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: SOA - Bajawa
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sangia Nibandera - Kolaka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tardamu - Sabu
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Fransiskus Xaverius Seda - Maumere
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Haluoleo - Kendari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Beto Ambari - Bau Bau
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Syukuran Aminuddin Amir - Luwuk
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Djalaluddin - Gorontalo
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gewayantana - Larantuka
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: David Constantijn Saudale - Rote
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wunopito - Lembata
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: El Tari - Kupang
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 33.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mali - Alor
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: A.A. Bere Talo / Atambua
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Timur Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sam Ratulangi - Manado
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 19:47 WITA
+Arah Angin: Utara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Emalamo - Sanana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Namniwel - Namlea
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sultan Babullah - Ternate
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Oesman Sadik - Labuha
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Gamar Malamo - Galela
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: 
+Kecepatan Angin: Tenang km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Kuabang Kao
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Barat Daya
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pattimura - Ambon
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Pitu - Morotai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Amahai
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Variabel
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: 7.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Bandaneira - Banda
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 20.4 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Domine Eduard Osok - Sorong
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mathilda Batlayeri - Saumlaki
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 22.2 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Torea - Fak Fak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Karel Sadsuitubun - Tual
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Utarom - Kaimana
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Rendani - Manokwari
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 4.0
+Cuaca: Hujan]
+
+[PRAKIRAAN CUACA BANDARA: Douw Aturure - Nabire
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 11.1 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Stevanus Rumbewas - Serui
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Barat
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Frans Kaisiepo - Biak
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Timur Laut
+Kecepatan Angin: 7.4 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Enarotali
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Barat Laut
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: 8.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mozes Kilangin - Timika
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Timur
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mararena / Orai - Sarmi
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Cerah - berawan]
+
+[PRAKIRAAN CUACA BANDARA: Wamena
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Selatan
+Kecepatan Angin: 14.8 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Tanah Merah
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 9.3 km/jam
+Visibility atau Jarak Pandang: 9.0
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Mopah - Merauke
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 18.5 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+
+[PRAKIRAAN CUACA BANDARA: Sentani - Jayapura
+Tanggal: 2024-07-31
+Waktu Prakiraan Cuaca 20:47 WIT
+Arah Angin: Tenggara
+Kecepatan Angin: 16.7 km/jam
+Visibility atau Jarak Pandang: >=10
+Cuaca: Berawan]
+

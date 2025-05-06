@@ -1,0 +1,504 @@
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Barat Kota Jakarta Barat DKI Jakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Pusat Kota Jakarta Pusat DKI Jakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Selatan Kota Jakarta Selatan DKI Jakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Timur Kota Jakarta Timur DKI Jakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Jakarta Utara Kota Jakarta Utara DKI Jakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 26°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 70%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,22.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 80% Kelembaban Minimal: 70%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 27°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 0 km/h,0°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 18.52 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]
+
+ [Prakiraan Cuaca Harian Wilayah Kepulauan Seribu Kab. Kepulauan Seribu DKI Jakarta pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Berawan / Mostly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,112.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 26°C
+Kelembaban Maksimal: 85% Kelembaban Minimal: 75%]

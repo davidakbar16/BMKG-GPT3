@@ -1,0 +1,1932 @@
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Kab. Aceh Barat Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Barat Daya Kab. Aceh Barat Daya Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Besar Kab. Aceh Besar Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Jaya Kab. Aceh Jaya Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Selatan Kab. Aceh Selatan Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Singkil Kab. Aceh Singkil Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tamiang Kab. Aceh Tamiang Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tengah Kab. Aceh Tengah Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Tenggara Kab. Aceh Tenggara Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Timur Kab. Aceh Timur Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Aceh Utara Kab. Aceh Utara Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Banda Aceh Kota Banda Aceh Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bener Meriah Kab. Bener Meriah Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Bireun Kab. Bireuen Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Gayo Lues Kab. Gayo Lues Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Langsa Kota Langsa Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Lhokseumawe Kota Lhokseumawe Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Nagan Raya Kab. Nagan Raya Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Kab. Pidie Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Pidie Jaya Kab. Pidie Jaya Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Sabang Kota Sabang Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Simeulue Kab. Simeulue Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 20 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 75%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 20 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 60%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,180°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 20 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,135°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 21 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 60%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 21 July 2024 jam 07:00 WIB
+ Suhu: 22°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 21 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 55%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 9.26 km/h,202.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 21 July 2024 jam 19:00 WIB
+ Suhu: 28°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,157.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 22 July 2024 jam 01:00 WIB
+ Suhu: 24°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 22°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 55%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 22 July 2024 jam 07:00 WIB
+ Suhu: 24°C dan Kelembaban: 85%
+Kemungkinan Cuaca: Cerah / Clear Skies
+ Kecepatan dan Arah Angin: 3.704 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 22 July 2024 jam 13:00 WIB
+ Suhu: 32°C dan Kelembaban: 65%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,225°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 22 July 2024 jam 19:00 WIB
+ Suhu: 27°C dan Kelembaban: 80%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,90°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
+
+ [Prakiraan Cuaca Harian Wilayah Subulussalam Kota Subulussalam Aceh pada tanggal 23 July 2024 jam 01:00 WIB
+ Suhu: 25°C dan Kelembaban: 90%
+Kemungkinan Cuaca: Cerah Berawan / Partly Cloudy
+ Kecepatan dan Arah Angin: 9.26 km/h,67.5°
+Temperatur Maksimal: 32°C Temperatur Minimal: 24°C
+Kelembaban Maksimal: 90% Kelembaban Minimal: 65%]
